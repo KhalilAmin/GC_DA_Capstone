@@ -7,15 +7,14 @@ Plan:
 - Which streaming service has the newest content?
     -histogram for release year
     -distribution hist for release year
-- Which streaming service has the widest range of genre?
+- Which genre would be the best investment for future content?
     -genre per release year
     - distinct count for genre one on Net vs distinct count for genre for Hulu, disney, prime
-- What streaming service is geared towards which age group?
+- Which streaming service is most likely to buy a R rated movie?
     -rating histogram
     -which streaming services have more kids friendly options? (g rating vs count)
     -rating vs type
-- What streaming service is the best for movie lovers?
-    - What streaming services have the most diverse options(tv shows/movies)? 
+- Which product would be better to invest in, a tv show or a movie?
     -count for different types across streaming services
     -proportional graph of total for movies vs TV
 - Work breakdown:
