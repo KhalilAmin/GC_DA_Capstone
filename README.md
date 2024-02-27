@@ -5,7 +5,7 @@ Plan:
 - EDA together to get an idea of the data's story and achieve domain knowledge as a group.
 - Decide on the main questions we are exploring in each data set:
 - Which streaming service has the newest content?
-- Which streaming service has the widest range of content in terms of Release Year?
+- Which streaming service has the widest range of genres?
 - What streaming service is geared towards which age group?
 - Which streaming service has the most diverse content offering based on genre?
 - Work breakdown:
