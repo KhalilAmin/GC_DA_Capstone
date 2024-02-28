@@ -1,0 +1,1229 @@
+show_id,type,title,country,date_added,release_year,rating,duration,genre_1
+s3,Movie,Ice Age: A Mammoth Christmas,United States,"November 26, 2021",2011,TV-G,23 min,Animation
+s6,Movie,Becoming Cousteau,United States,"November 24, 2021",2021,PG-13,94 min,Biographical
+s8,TV Show,Port Protection Alaska,United States,"November 24, 2021",2015,TV-14,2 Seasons,Docuseries
+s9,TV Show,Secrets of the Zoo: Tampa,United States,"November 24, 2021",2019,TV-PG,2 Seasons,Animals & Nature
+s10,Movie,A Muppets Christmas: Letters To Santa,United States,"November 19, 2021",2008,G,45 min,Comedy
+s13,Movie,The Pixar Story,United States,"November 19, 2021",2007,G,91 min,Documentary
+s14,TV Show,"Dr. Oakley, Yukon Vet",United States,"November 17, 2021",2013,TV-PG,10 Seasons,Action-Adventure
+s18,TV Show,Disney Fancy Nancy,"United States, Canada","November 12, 2021",2018,TV-PG,3 Seasons,Animation
+s20,Movie,Enchanted,United States,"November 12, 2021",2007,PG,110 min,Comedy
+s21,Movie,Feast,United States,"November 12, 2021",2014,G,8 min,Animation
+s22,Movie,Frozen Fever,United States,"November 12, 2021",2015,G,11 min,Animation
+s23,Movie,Get a Horse!,United States,"November 12, 2021",2013,G,7 min,Action-Adventure
+s24,Movie,Home Sweet Home Alone,United States,"November 12, 2021",2021,PG,95 min,Comedy
+s25,Movie,Jungle Cruise,United States,"November 12, 2021",2021,PG-13,129 min,Action-Adventure
+s30,Movie,Paperman,United States,"November 12, 2021",2012,G,7 min,Animation
+s32,Movie,Shang-Chi and The Legend of The Ten Rings,"United States, Australia","November 12, 2021",2021,PG-13,134 min,Action-Adventure
+s34,Movie,Tangled Ever After,United States,"November 12, 2021",2012,G,9 min,Animation
+s36,Movie,The Little Matchgirl,United States,"November 12, 2021",2006,G,7 min,Animation
+s40,Movie,Tick Tock Tale,United States,"November 12, 2021",2010,G,6 min,Animation
+s43,Movie,Alvin and the Chipmunks: Chipwrecked,United States,"November 5, 2021",2011,G,87 min,Comedy
+s44,Movie,Jingle All The Way,United States,"November 5, 2021",1996,PG,90 min,Comedy
+s45,Movie,Jingle All the Way 2,United States,"November 5, 2021",2014,PG,91 min,Comedy
+s47,Movie,Santa Buddies: The Legend of Santa Paws,"United States, Canada","November 5, 2021",2009,G,93 min,Comedy
+s48,Movie,Snow Buddies,United States,"November 5, 2021",2008,G,91 min,Action-Adventure
+s49,Movie,Space Buddies,"United States, Canada","November 5, 2021",2009,G,87 min,Action-Adventure
+s50,Movie,The Search for Santa Paws,Canada,"November 5, 2021",2010,G,101 min,Drama
+s51,Movie,X-Men: First Class,"United States, United Kingdom","November 5, 2021",2011,PG-13,132 min,Action-Adventure
+s52,TV Show,Disney Amphibia,"United States, South Korea","November 3, 2021",2018,TV-Y7,3 Seasons,Animation
+s53,TV Show,Photo Ark,United States,"November 3, 2021",2017,TV-PG,1 Season,Animals & Nature
+s56,Movie,"McFarland, USA",United States,"October 29, 2021",2015,PG,131 min,Drama
+s57,Movie,Rookie of the Year,United States,"October 22, 2021",1993,PG,104 min,Comedy
+s58,Movie,Thumbelina,"Ireland, United States, Canada, United Kingdom, Denmark, Spain, Poland, Hungary","October 22, 2021",1994,G,87 min,Animation
+s59,TV Show,PJ Masks,"France, United Kingdom","October 20, 2021",2015,TV-Y7,5 Seasons,Action-Adventure
+s75,Movie,Black Widow,United States,"October 6, 2021",2021,PG-13,135 min,Action-Adventure
+s76,TV Show,Drain the Oceans,"United Kingdom, Australia","October 6, 2021",2017,TV-PG,4 Seasons,Docuseries
+s78,Movie,Fauci,United States,"October 6, 2021",2021,PG-13,105 min,Biographical
+s79,TV Show,IMPACT with Gal Gadot,United States,"October 6, 2021",2021,TV-14,1 Season,Docuseries
+s80,TV Show,The Ghost and Molly McGee,United States,"October 6, 2021",2021,TV-Y7,1 Season,Animation
+s81,Movie,Alvin and the Chipmunks,United States,"October 1, 2021",2007,PG,91 min,Animation
+s82,Movie,Alvin and the Chipmunks: The Road Chip,United States,"October 1, 2021",2015,PG,92 min,Comedy
+s84,Movie,Maleficent,"United States, United Kingdom","October 1, 2021",2014,PG,99 min,Action-Adventure
+s86,TV Show,Disney Vampirina,"Ireland, United States","September 29, 2021",2017,TV-Y7,3 Seasons,Animation
+s87,TV Show,Disney's Magic Bake-Off,United States,"September 29, 2021",2021,TV-G,1 Season,Family
+s90,TV Show,Rolie Polie Olie,"Canada, United States, France","September 29, 2021",1998,TV-Y,5 Seasons,Animation
+s93,TV Show,The Simpsons,United States,"September 29, 2021",1989,TV-PG,32 Seasons,Animation
+s95,Movie,Spooky Buddies,"United States, Canada","September 24, 2021",2011,G,93 min,Comedy
+s96,Movie,The Fault in Our Stars,United States,"September 24, 2021",2014,PG-13,127 min,Coming of Age
+s97,TV Show,Dog: Impossible,United States,"September 22, 2021",2019,TV-PG,2 Seasons,Animals & Nature
+s98,TV Show,Spidey And His Amazing Friends,United States,"September 22, 2021",2021,TV-Y,1 Season,Action-Adventure
+s100,Movie,Confessions of a Shopaholic,United States,"September 17, 2021",2009,PG,106 min,Comedy
+s107,TV Show,Life Below Zero,United States,"September 15, 2021",2012,TV-14,16 Seasons,Action-Adventure
+s108,TV Show,Miraculous: Tales Of Ladybug & Cat Noir,"France, South Korea, Japan, United States","September 15, 2021",2015,TV-Y7,1 Season,Action-Adventure
+s111,Movie,Pirates of the Caribbean: On Stranger Tides,"United States, United Kingdom","September 10, 2021",2011,PG-13,140 min,Action-Adventure
+s112,Movie,Twenty Something,United States,"September 10, 2021",2021,PG,11 min,Animation
+s113,TV Show,"Doogie Kamealoha, M.D.",United States,"September 8, 2021",2021,TV-PG,1 Season,Comedy
+s114,TV Show,"Mira, Royal Detective",United States,"September 8, 2021",2020,TV-Y,2 Seasons,Animation
+s115,TV Show,Pepper Ann,United States,"September 8, 2021",1997,TV-Y,3 Seasons,Animation
+s116,TV Show,The Incredible Dr. Pol,United States,"September 8, 2021",2011,TV-14,19 Seasons,Animals & Nature
+s117,Movie,Happier Than Ever: A Love Letter to Los Angeles,United States,"September 3, 2021",2021,TV-14,66 min,Concert Film
+s118,Movie,X-Men: Dark Phoenix,"United States, Canada","September 3, 2021",2019,PG-13,115 min,Action-Adventure
+s119,TV Show,Alaska Animal Rescue,United States,"September 1, 2021",2019,TV-PG,2 Seasons,Animals & Nature
+s120,TV Show,Dug Days,United States,"September 1, 2021",2021,TV-PG,1 Season,Animation
+s121,Movie,Cruella,"United States, United Kingdom","August 27, 2021",2021,PG-13,137 min,Crime
+s122,Movie,Dan in Real Life,United States,"August 27, 2021",2007,PG-13,99 min,Comedy
+s124,Movie,Marvel One-Shot: All Hail the King,United States,"August 27, 2021",2014,TV-14,14 min,Comedy
+s125,Movie,Underdog,United States,"August 27, 2021",2007,PG,85 min,Action-Adventure
+s127,TV Show,Gigantosaurus,France,"August 25, 2021",2018,TV-Y,2 Seasons,Action-Adventure
+s128,TV Show,Life Below Zero: Next Generation,United States,"August 25, 2021",2020,TV-14,2 Seasons,Action-Adventure
+s129,Movie,Eragon,"United States, United Kingdom, Hungary","August 20, 2021",2006,PG,104 min,Action-Adventure
+s131,Movie,Fantastic Four,"United States, Germany","August 13, 2021",2005,PG-13,106 min,Action-Adventure
+s132,Movie,X-Men,United States,"August 13, 2021",2000,PG-13,105 min,Action-Adventure
+s134,TV Show,Chicken Squad,United States,"August 11, 2021",2021,TV-Y,1 Season,Animation
+s136,TV Show,Gabby Duran And The Unsittables,United States,"August 11, 2021",2018,TV-G,2 Seasons,Comedy
+s138,Movie,Beverly Hills Chihuahua 2,United States,"August 6, 2021",2011,G,88 min,Action-Adventure
+s139,Movie,Beverly Hills Chihuahua 3: Viva La Fiesta!,United States,"August 6, 2021",2012,G,92 min,Comedy
+s141,Movie,Mrs. Doubtfire,United States,"August 6, 2021",1993,PG-13,126 min,Comedy
+s145,Movie,Garfield,United States,"July 30, 2021",2004,PG,82 min,Comedy
+s147,TV Show,Critter Fixers: Country Vets,United States,"July 28, 2021",2020,TV-14,2 Seasons,Animals & Nature
+s148,TV Show,Disney Junior T.O.T.S.,United States,"July 28, 2021",2018,TV-Y,2 Seasons,Animation
+s149,TV Show,Mickey Mouse Funhouse,United States,"July 28, 2021",2021,TV-Y,1 Season,Animation
+s152,Movie,Ice Age: The Meltdown,"United States, United Kingdom, Australia","July 23, 2021",2006,PG,94 min,Animation
+s160,TV Show,Disney The Owl House,"United States, United Kingdom","July 21, 2021",2020,TV-Y7,2 Seasons,Action-Adventure
+s169,Movie,We Bought a Zoo,United States,"July 16, 2021",2011,PG,125 min,Animals & Nature
+s172,TV Show,So Random!,United States,"July 14, 2021",2011,TV-G,1 Season,Comedy
+s173,Movie,Flicka,"United States, United Kingdom","July 9, 2021",2006,PG,95 min,Animals & Nature
+s177,Movie,Shark Beach with Chris Hemsworth,United States,"July 9, 2021",2021,TV-PG,44 min,Animals & Nature
+s180,TV Show,When Sharks Attack,United States,"July 9, 2021",2013,TV-14,7 Seasons,Reality
+s181,TV Show,Breaking Bobby Bones,United States,"July 7, 2021",2021,TV-14,1 Season,Action-Adventure
+s182,TV Show,Mickey Mouse Mixed-Up Adventures,United States,"July 7, 2021",2019,TV-Y,1 Season,Animation
+s183,TV Show,Monsters at Work,United States,"July 7, 2021",2021,TV-G,1 Season,Animation
+s185,TV Show,Disney Raven's Home,United States,"July 2, 2021",2016,TV-G,4 Seasons,Comedy
+s186,Movie,The Sandlot,United States,"July 2, 2021",1993,PG,101 min,Comedy
+s187,Movie,The Sandlot 2,United States,"July 2, 2021",2005,PG,98 min,Comedy
+s188,Movie,Adventures in Babysitting,United States,"June 25, 2021",1987,TV-PG,102 min,Action-Adventure
+s189,TV Show,Running Wild with Bear Grylls,United States,"June 25, 2021",2019,TV-PG,2 Seasons,Action-Adventure
+s190,TV Show,The Mysterious Benedict Society,United States,"June 25, 2021",2021,TV-PG,1 Season,Action-Adventure
+s192,TV Show,Dino Ranch,Canada,"June 18, 2021",2021,TV-Y,1 Season,Animation
+s193,TV Show,Disney Just Roll With It,United States,"June 18, 2021",2018,TV-Y7,2 Seasons,Comedy
+s194,TV Show,"Heartland Docs, DVM",United States,"June 18, 2021",2019,TV-14,3 Seasons,Animals & Nature
+s195,Movie,Luca,United States,"June 18, 2021",2021,PG,101 min,Animation
+s197,TV Show,Puppy Dog Pals,"United States, India","June 11, 2021",2016,TV-G,4 Seasons,Animation
+s198,Movie,Strange Magic,"United States, Canada, United Kingdom, Singapore, Australia, Thailand","June 11, 2021",2015,PG,101 min,Action-Adventure
+s199,Movie,The Happiest Millionaire,United States,"June 11, 2021",1967,G,170 min,Biographical
+s200,Movie,The Pacifier,"Canada, United States","June 11, 2021",2005,PG,97 min,Action-Adventure
+s201,TV Show,Zenimation,United States,"June 11, 2021",2020,TV-G,2 Seasons,Animation
+s203,TV Show,Gordon Ramsay: Uncharted,United States,"June 4, 2021",2018,TV-14,3 Seasons,Action-Adventure
+s204,TV Show,MUPPET BABIES,"South Korea, United States, China, Japan","June 4, 2021",2017,TV-Y,3 Seasons,Animation
+s205,Movie,Raya and the Last Dragon,United States,"June 4, 2021",2021,PG,112 min,Action-Adventure
+s206,Movie,Red Tails,United States,"June 4, 2021",2012,PG-13,126 min,Action-Adventure
+s209,TV Show,Bluey,"Australia, United Kingdom","May 28, 2021",2019,TV-Y,2 Seasons,Animation
+s211,TV Show,Disney Sydney To The Max,United States,"May 28, 2021",2018,TV-G,3 Seasons,Comedy
+s217,TV Show,Wicked Tuna,United States,"May 28, 2021",2016,TV-14,10 Seasons,Action-Adventure
+s218,TV Show,Big City Greens,"United States, South Korea","May 21, 2021",2017,TV-Y7,2 Seasons,Action-Adventure
+s220,TV Show,Ice Road Rescue,United Kingdom,"May 21, 2021",2015,TV-14,5 Seasons,Docuseries
+s221,Movie,Tinker Bell and the Legend of the NeverBeast,United States,"May 21, 2021",2014,G,79 min,Action-Adventure
+s222,TV Show,Schoolhouse Rock!,United States,"May 17, 2021",1973,TV-G,6 Seasons,Animals & Nature
+s224,TV Show,Race to the Center of the Earth,United States,"May 14, 2021",2021,TV-14,1 Season,Action-Adventure
+s225,TV Show,Special Agent Oso,"United States, United Kingdom, South Korea","May 14, 2021",2009,TV-Y,2 Seasons,Action-Adventure
+s226,Movie,X-Men: The Last Stand,"United States, United Kingdom, Canada","May 14, 2021",2006,PG-13,105 min,Action-Adventure
+s227,TV Show,The Incredible Hulk,United States,"May 10, 2021",1996,TV-Y7,2 Seasons,Action-Adventure
+s228,Movie,Fantastic Four: Rise of the Silver Surfer,"United States, Germany, United Kingdom","May 7, 2021",2007,PG,93 min,Action-Adventure
+s229,TV Show,Wander Over Yonder,"United States, Canada, Ireland","May 7, 2021",2013,TV-Y7,2 Seasons,Comedy
+s230,Movie,Wild Hearts Can't Be Broken,United States,"May 7, 2021",1991,G,89 min,Biographical
+s235,TV Show,Spider-Man,United States,"May 3, 2021",1994,TV-Y7,5 Seasons,Action-Adventure
+s239,TV Show,DuckTales,United States,"April 30, 2021",2017,TV-Y7,3 Seasons,Action-Adventure
+s240,Movie,Oklahoma!,United States,"April 30, 2021",1956,TV-PG,148 min,Musical
+s241,Movie,Baby's Day Out,United States,"April 23, 2021",1994,PG,99 min,Action-Adventure
+s242,Movie,Being the Queen,United States,"April 23, 2021",2020,TV-14,44 min,Biographical
+s243,TV Show,Liv and Maddie,United States,"April 23, 2021",2013,TV-G,4 Seasons,Comedy
+s247,TV Show,Primal Survivor,United States,"April 16, 2021",2014,TV-PG,5 Seasons,Docuseries
+s248,Movie,Rio,"United States, Brazil","April 16, 2021",2011,G,99 min,Action-Adventure
+s249,Movie,The Kid Who Would Be King,"United Kingdom, United States","April 16, 2021",2019,PG,121 min,Action-Adventure
+s250,Movie,Treasure Buddies,"United States, Canada","April 16, 2021",2012,G,96 min,Action-Adventure
+s251,Movie,White Fang 2: Myth of the White Wolf,United States,"April 16, 2021",1994,PG,106 min,Action-Adventure
+s252,Movie,Cesar Millan: The Real Story,United States,"April 9, 2021",2012,TV-PG,45 min,Biographical
+s253,TV Show,Future-Worm!,United States,"April 9, 2021",2016,TV-Y7,1 Season,Family
+s254,TV Show,Kick Buttowski: Suburban Daredevil,United States,"April 9, 2021",2010,TV-Y7,2 Seasons,Action-Adventure
+s255,Movie,Man of the House,United States,"April 9, 2021",1995,PG,97 min,Comedy
+s256,Movie,Mark Twain and Me,"Canada, United States","April 9, 2021",1991,TV-PG,93 min,Biographical
+s257,Movie,Squanto: A Warrior's Tale,"United States, Canada","April 9, 2021",1994,PG,102 min,Action-Adventure
+s259,Movie,Ewoks: The Battle for Endor,United States,"April 2, 2021",1985,TV-PG,97 min,Action-Adventure
+s260,TV Show,Higglytown Heroes,"United States, South Korea","April 2, 2021",2004,TV-Y,2 Seasons,Animation
+s261,Movie,Island at the Top of the World,United States,"April 2, 2021",1974,G,94 min,Action-Adventure
+s262,TV Show,Made in a Day,United States,"April 2, 2021",2020,TV-PG,1 Season,Reality
+s263,Movie,Night at the Museum,"United States, United Kingdom","April 2, 2021",2006,PG,109 min,Action-Adventure
+s269,Movie,The Big Year,"United States, Canada","April 2, 2021",2011,PG,101 min,Animals & Nature
+s270,Movie,The Last Ice,United States,"April 2, 2021",2020,TV-14,82 min,Animals & Nature
+s271,Movie,Third Man on the Mountain,"United States, United Kingdom","April 2, 2021",1959,G,107 min,Action-Adventure
+s272,TV Show,Walk the Prank,United States,"April 2, 2021",2016,TV-Y7,3 Seasons,Comedy
+s273,Movie,Gnomeo & Juliet,"United Kingdom, United States, Canada, Ireland","March 26, 2021",2011,G,86 min,Action-Adventure
+s274,TV Show,Pickle and Peanut,United States,"March 26, 2021",2015,TV-Y7,2 Seasons,Comedy
+s276,TV Show,Disney Big Hero 6 The Series,United States,"March 19, 2021",2017,TV-G,3 Seasons,Action-Adventure
+s282,Movie,Miss Peregrine's Home for Peculiar Children,"United States, United Kingdom, Belgium, Canada","March 12, 2021",2016,PG-13,127 min,Coming of Age
+s284,Movie,Garfield: A Tail of Two Kitties,"United Kingdom, United States","March 5, 2021",2006,PG,79 min,Comedy
+s285,TV Show,American Dragon: Jake Long,United States,"February 26, 2021",2004,TV-Y7,2 Seasons,Action-Adventure
+s286,TV Show,Car SOS,United Kingdom,"February 26, 2021",2012,TV-PG,8 Seasons,Buddy
+s289,TV Show,Dog With a Blog,United States,"February 26, 2021",2012,TV-G,3 Seasons,Comedy
+s291,Movie,Myth: A Frozen Tale,United States,"February 26, 2021",2021,TV-G,12 min,Animation
+s292,Movie,Okavango: River of Dreams,"Austria, South Africa","February 26, 2021",2020,TV-PG,95 min,Animals & Nature
+s293,TV Show,Pair of Kings,United States,"February 26, 2021",2010,TV-Y7,3 Seasons,Action-Adventure
+s294,TV Show,Secrets of Sulphur Springs,United States,"February 26, 2021",2021,TV-PG,1 Season,Family
+s296,Movie,Cheaper By the Dozen,United States,"February 19, 2021",2003,PG,99 min,Comedy
+s297,Movie,Cheaper by the Dozen 2,"United States, Canada","February 19, 2021",2005,PG,95 min,Comedy
+s298,Movie,Flora & Ulysses,United States,"February 19, 2021",2021,PG,95 min,Comedy
+s300,TV Show,The Muppet Show,"United States, United Kingdom","February 19, 2021",1976,TV-PG,5 Seasons,Comedy
+s301,TV Show,Marvel Battleworld: Mystery of the Thanostones,United States,"February 12, 2021",2020,TV-Y7-FV,1 Season,Action-Adventure
+s304,Movie,You Again,United States,"February 12, 2021",2010,PG,106 min,Comedy
+s305,Movie,Disney My Music Story: Yoshiki,"United States, Japan","February 5, 2021",2019,TV-PG,48 min,Biographical
+s306,Movie,Expedition Everest,United States,"February 5, 2021",2020,TV-PG,45 min,Animals & Nature
+s307,Movie,Upside-Down Magic,"United States, Canada","February 5, 2021",2020,TV-PG,97 min,Coming of Age
+s309,TV Show,Dinosaurs,United States,"January 29, 2021",1991,TV-PG,4 Seasons,Comedy
+s311,TV Show,Pixar Popcorn,United States,"January 22, 2021",2021,TV-PG,1 Season,Animation
+s313,TV Show,Elena of Avalor,United States,"January 15, 2021",2015,TV-Y7,3 Seasons,Action-Adventure
+s314,Movie,Isle of Dogs,"United States, Germany, United Kingdom","January 15, 2021",2018,PG-13,102 min,Action-Adventure
+s315,Movie,Mary Poppins Returns,"United States, United Kingdom","January 15, 2021",2018,PG,140 min,Family
+s316,TV Show,WandaVision,United States,"January 15, 2021",2021,TV-14,1 Season,Drama
+s317,TV Show,Disney Fam Jam,United States,"January 8, 2021",2020,TV-G,1 Season,Family
+s318,Movie,Ferdinand,"United States, Spain","January 8, 2021",2017,PG,111 min,Action-Adventure
+s319,TV Show,Marvel Studios LEGENDS,United States,"January 8, 2021",2021,TV-14,1 Season,Action-Adventure
+s320,Movie,Toy Story: That Time Forgot,United States,"January 8, 2021",2014,TV-G,22 min,Action-Adventure
+s321,Movie,700 Sharks,France,"January 1, 2021",2018,TV-PG,45 min,Animals & Nature
+s323,Movie,Dr. Seuss' Horton Hears a Who!,United States,"January 1, 2021",2008,G,88 min,Animation
+s325,Movie,Mega Hammerhead,United States,"January 1, 2021",2016,TV-PG,43 min,Animals & Nature
+s326,Movie,Burrow,United States,"December 25, 2020",2020,G,6 min,Animation
+s327,TV Show,Cosmos: Possible Worlds,United States,"December 25, 2020",2020,TV-14,1 Season,Action-Adventure
+s328,TV Show,Disney Gallery / Star Wars: The Mandalorian,United States,"December 25, 2020",2020,TV-PG,2 Seasons,Action-Adventure
+s329,Movie,Max Keeble's Big Move,United States,"December 25, 2020",2001,PG,88 min,Comedy
+s330,Movie,Soul,United States,"December 25, 2020",2020,PG,107 min,Animation
+s331,Movie,Arendelle Castle Yule Log,United States,"December 18, 2020",2020,TV-G,180 min,Animation
+s332,Movie,Buried Truth of the Maya,United States,"December 18, 2020",2020,TV-PG,48 min,Documentary
+s334,Movie,Dory's Reef Cam,United States,"December 18, 2020",2020,TV-G,182 min,Animation
+s335,Movie,Into the Woods,United States,"December 18, 2020",2014,PG,126 min,Action-Adventure
+s336,Movie,"Miraculous World: New York, United Heroez","United Kingdom, United States, France","December 18, 2020",2020,TV-Y7-FV,60 min,Action-Adventure
+s337,TV Show,On Pointe,United States,"December 18, 2020",2020,TV-PG,1 Season,Docuseries
+s339,Movie,Disney Channel's Epic Holiday Showdown,United States,"December 11, 2020",2020,TV-G,50 min,Fantasy
+s340,Movie,Disney Holiday Magic Quest,United States,"December 11, 2020",2020,TV-G,46 min,Movies
+s341,Movie,Gender Revolution: A Journey With Katie Couric,United States,"December 11, 2020",2017,TV-14,93 min,Documentary
+s342,Movie,High School Musical: The Musical: The Holiday Special,United States,"December 11, 2020",2020,TV-G,46 min,Drama
+s343,Movie,Ralph Breaks the Internet,United States,"December 11, 2020",2018,PG,116 min,Action-Adventure
+s344,Movie,Safety,United States,"December 11, 2020",2020,PG,123 min,Biographical
+s345,Movie,Anastasia,United States,"December 4, 2020",1997,G,95 min,Animation
+s346,Movie,Godmothered,United States,"December 4, 2020",2020,PG,113 min,Comedy
+s347,Movie,Man vs. Shark,United States,"December 4, 2020",2019,TV-PG,45 min,Animals & Nature
+s348,Movie,Mulan,"United States, Canada, Hong Kong","December 4, 2020",2020,PG-13,117 min,Action-Adventure
+s349,Movie,Sky High,United States,"December 4, 2020",2005,PG,101 min,Action-Adventure
+s350,Movie,The Disney Holiday Singalong,United States,"December 4, 2020",2020,TV-G,45 min,Family
+s351,Movie,The Nutcracker and the Four Realms,United States,"December 4, 2020",2018,PG,101 min,Action-Adventure
+s352,Movie,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",United States,"November 27, 2020",2014,PG,83 min,Comedy
+s353,Movie,Black Beauty,United States,"November 27, 2020",2020,TV-PG,111 min,Animals & Nature
+s354,Movie,From Our Family to Yours,United Kingdom,"November 27, 2020",2020,TV-G,3 min,Animation
+s355,TV Show,Once Upon a Time in Wonderland,"Canada, United States","November 27, 2020",2013,TV-PG,1 Season,Action-Adventure
+s357,Movie,Folklore: the long pond studio sessions,United States,"November 25, 2020",2020,TV-14,107 min,Documentary
+s358,TV Show,Bia,Argentina,"November 20, 2020",2019,TV-G,1 Season,Coming of Age
+s359,TV Show,Marvel's 616,United States,"November 20, 2020",2020,TV-14,1 Season,Anthology
+s360,Movie,Planes,United States,"November 20, 2020",2013,PG,94 min,Action-Adventure
+s361,Movie,Planes: Fire & Rescue,United States,"November 20, 2020",2014,PG,85 min,Action-Adventure
+s362,Movie,The Real Right Stuff,United States,"November 20, 2020",2020,TV-PG,90 min,Documentary
+s363,TV Show,The Wonderful World of Mickey Mouse,United States,"November 18, 2020",2020,TV-G,1 Season,Action-Adventure
+s364,Movie,LEGO Star Wars Holiday Special,United States,"November 17, 2020",2020,TV-Y7-FV,48 min,Action-Adventure
+s365,Movie,Home Alone,United States,"November 13, 2020",1990,PG,103 min,Comedy
+s366,Movie,Home Alone 2: Lost in New York,United States,"November 13, 2020",1992,PG,121 min,Comedy
+s367,Movie,Home Alone 3,United States,"November 13, 2020",1997,PG,103 min,Comedy
+s368,TV Show,Inside Pixar,United States,"November 13, 2020",2020,TV-PG,1 Season,Docuseries
+s369,Movie,Petra: Secrets of the Ancient Builders,United Arab Emirates,"November 13, 2020",2019,TV-G,45 min,Documentary
+s371,Movie,Disney's A Christmas Carol,United States,"November 6, 2020",2009,PG,97 min,Animation
+s373,TV Show,Goldie & Bear,United States,"November 6, 2020",2015,TV-Y,2 Seasons,Action-Adventure
+s374,Movie,Mr. Magoo,United States,"November 6, 2020",1997,PG,88 min,Action-Adventure
+s375,Movie,Prep & Landing,United States,"November 6, 2020",2009,TV-G,23 min,Animation
+s376,Movie,Prep & Landing: Naughty vs. Nice,United States,"November 6, 2020",2011,TV-G,23 min,Animation
+s377,Movie,Disney Channel Halloween House Party,United States,"October 30, 2020",2020,TV-G,23 min,Comedy
+s378,TV Show,The Mandalorian,United States,"October 30, 2020",2019,TV-14,2 Seasons,Action-Adventure
+s379,Movie,The Sorcerer's Apprentice,United States,"October 30, 2020",2010,PG,111 min,Action-Adventure
+s380,TV Show,X-Ray Earth,United States,"October 30, 2020",2020,TV-PG,1 Season,Animals & Nature
+s381,TV Show,Gathering Storm,United States,"October 23, 2020",2020,TV-PG,1 Season,Animals & Nature
+s383,TV Show,Marvel Super Hero Adventures,United States,"October 23, 2020",2017,TV-Y,4 Seasons,Action-Adventure
+s384,Movie,Once Upon a Snowman,United States,"October 23, 2020",2020,TV-PG,12 min,Animation
+s385,Movie,Pompeii: Secrets Of The Dead,United States,"October 23, 2020",2019,TV-PG,45 min,Documentary
+s386,Movie,Toy Story of Terror!,United States,"October 23, 2020",2013,TV-G,22 min,Animation
+s387,Movie,Beverly Hills Chihuahua,"United States, Mexico","October 16, 2020",2008,PG,95 min,Action-Adventure
+s388,Movie,Clouds,United States,"October 16, 2020",2020,PG-13,122 min,Biographical
+s389,Movie,Lost on Everest,United States,"October 16, 2020",2020,TV-14,60 min,Animals & Nature
+s390,Movie,Marvel's Iron Man & Captain America: Heroes United,United States,"October 16, 2020",2014,PG,72 min,Action-Adventure
+s391,TV Show,Meet The Chimps,United States,"October 16, 2020",2020,TV-PG,1 Season,Animals & Nature
+s392,TV Show,The Rocketeer,United States,"October 16, 2020",2019,TV-Y,1 Season,Action-Adventure
+s394,Movie,The Chronicles Of Narnia: The Voyage of the Dawn Treader,"United States, United Kingdom","October 9, 2020",2010,PG,113 min,Action-Adventure
+s395,TV Show,The Right Stuff,United States,"October 9, 2020",2020,TV-14,1 Season,Drama
+s397,Movie,X2,"Canada, United States","October 9, 2020",2003,PG-13,134 min,Action-Adventure
+s398,Movie,Mr. Holland's Opus,United States,"October 2, 2020",1996,PG,143 min,Drama
+s399,Movie,Disneynature Oceans,"France, Switzerland, Spain, United States, United Arab Emirates","September 25, 2020",2010,G,84 min,Animals & Nature
+s400,Movie,Hidden Figures,United States,"September 25, 2020",2016,PG,128 min,Biographical
+s401,TV Show,Magic of Disney's Animal Kingdom,United Kingdom,"September 25, 2020",2020,TV-PG,1 Season,Animals & Nature
+s402,Movie,Secret Society of Second-Born Royals,United States,"September 25, 2020",2020,TV-PG,99 min,Action-Adventure
+s403,Movie,The Giant Robber Crab,United States,"September 25, 2020",2019,TV-PG,44 min,Animals & Nature
+s405,TV Show,Ancient China from Above,United States,"September 18, 2020",2020,TV-14,1 Season,Docuseries
+s406,TV Show,Becoming,United States,"September 18, 2020",2020,TV-PG,1 Season,Anthology
+s407,TV Show,Coop & Cami Ask The World,United States,"September 18, 2020",2018,TV-G,2 Seasons,Comedy
+s408,TV Show,Europe from Above,United Kingdom,"September 18, 2020",2019,TV-G,1 Season,Docuseries
+s409,Movie,Ever After: A Cinderella Story,United States,"September 18, 2020",1998,PG-13,122 min,Drama
+s410,TV Show,Kingdom of the Mummies,United States,"September 18, 2020",2020,TV-14,1 Season,Docuseries
+s411,Movie,Morning Light,United States,"September 18, 2020",2008,PG,99 min,Documentary
+s412,Movie,Notre Dame: Race Against The Inferno,"United Kingdom, France","September 18, 2020",2019,TV-PG,45 min,Documentary
+s413,TV Show,Once Upon a Time,United States,"September 18, 2020",2011,TV-PG,7 Seasons,Action-Adventure
+s414,TV Show,Soy Luna,"Argentina, Mexico","September 18, 2020",2015,TV-G,3 Seasons,Comedy
+s415,TV Show,Violetta,Argentina,"September 18, 2020",2011,TV-G,3 Seasons,Coming of Age
+s416,Movie,Christopher Robin,"United Kingdom, United States","September 11, 2020",2018,PG,109 min,Drama
+s417,Movie,D2: The Mighty Ducks,United States,"September 4, 2020",1994,PG,107 min,Comedy
+s418,Movie,D3: The Mighty Ducks,United States,"September 4, 2020",1996,PG,104 min,Comedy
+s419,TV Show,Earth to Ned,United States,"September 4, 2020",2020,TV-PG,1 Season,Comedy
+s420,Movie,Trick or Treat,United States,"September 4, 2020",1952,TV-G,9 min,Animation
+s421,Movie,Alice Through the Looking Glass,"United States, United Kingdom","August 28, 2020",2016,PG,115 min,Action-Adventure
+s422,Movie,Phineas and Ferb The Movie: Candace Against the Universe,United States,"August 28, 2020",2020,TV-G,86 min,Action-Adventure
+s423,Movie,Back to the Titanic,United Kingdom,"August 21, 2020",2020,TV-PG,44 min,Documentary
+s424,Movie,Beauty and the Beast,United States,"August 21, 2020",2017,PG,138 min,Family
+s425,Movie,Mars: One Day on the Red Planet,United States,"August 21, 2020",2020,TV-PG,88 min,Documentary
+s426,Movie,The One and Only Ivan,United States,"August 21, 2020",2020,PG,95 min,Drama
+s429,Movie,Disney Zombies 2,United States,"August 14, 2020",2020,TV-G,84 min,Coming of Age
+s430,Movie,India's Wild Leopards,India,"August 14, 2020",2020,TV-14,45 min,Animals & Nature
+s431,TV Show,Jungle Animal Rescue,United States,"August 14, 2020",2019,TV-PG,1 Season,Animals & Nature
+s432,Movie,Magic Camp,United States,"August 14, 2020",2020,PG,101 min,Comedy
+s433,Movie,Marvel Studios' Ant-Man and the Wasp,United States,"August 14, 2020",2018,PG-13,120 min,Action-Adventure
+s434,TV Show,Nature Boom Time,United States,"August 14, 2020",2016,TV-G,1 Season,Animals & Nature
+s435,TV Show,Sam's Zookeeper Challenge,United States,"August 14, 2020",2018,TV-G,1 Season,Animals & Nature
+s436,TV Show,Scuba Sam's World,United States,"August 14, 2020",2018,TV-G,1 Season,Animals & Nature
+s438,Movie,The Greatest Showman,United States,"August 14, 2020",2017,PG,106 min,Biographical
+s439,TV Show,Weird But True!,United States,"August 14, 2020",2017,TV-G,3 Seasons,Animals & Nature
+s440,TV Show,Wild Cats of India,United States,"August 14, 2020",2020,TV-PG,1 Season,Animals & Nature
+s441,Movie,Howard,United States,"August 7, 2020",2020,TV-PG,95 min,Biographical
+s442,Movie,Prince of Persia: The Sands of Time,United States,"August 7, 2020",2010,PG-13,117 min,Action-Adventure
+s443,Movie,Star Wars: Galaxy's Edge-Adventure Awaits,United States,"August 7, 2020",2019,TV-PG,81 min,Documentary
+s444,Movie,The Hidden Kingdoms of China,United States,"August 7, 2020",2020,TV-PG,88 min,Animals & Nature
+s445,Movie,The Peanuts Movie,United States,"August 7, 2020",2015,G,89 min,Animation
+s450,Movie,Black Is King,United States,"July 31, 2020",2020,TV-14,86 min,Dance
+s451,Movie,Cradle of the Gods,United Kingdom,"July 31, 2020",2012,TV-PG,45 min,Documentary
+s455,Movie,Incredibles 2,United States,"July 31, 2020",2018,PG,118 min,Action-Adventure
+s456,TV Show,King Fishers,United Kingdom,"July 31, 2020",2013,TV-PG,1 Season,Action-Adventure
+s457,Movie,Lost Temple of the Inca,United States,"July 31, 2020",2020,TV-PG,44 min,Documentary
+s459,TV Show,Muppets Now,United States,"July 31, 2020",2020,TV-PG,1 Season,Comedy
+s460,Movie,Surviving the Mount St. Helens Disaster,United Kingdom,"July 31, 2020",2020,TV-PG,44 min,Animals & Nature
+s462,Movie,Pirates of the Caribbean: Dead Men Tell No Tales,United States,"July 24, 2020",2017,PG-13,129 min,Action-Adventure
+s466,TV Show,Wild Sri Lanka,United Kingdom,"July 24, 2020",2016,TV-PG,1 Season,Animals & Nature
+s467,Movie,A Pre-Opening Report from Disneyland,United States,"July 17, 2020",1955,TV-PG,55 min,Documentary
+s468,Movie,Diary of a Wimpy Kid: The Long Haul,United States,"July 17, 2020",2017,PG,92 min,Comedy
+s470,Movie,Lost City of Machu Picchu,United States,"July 17, 2020",2019,TV-14,44 min,Documentary
+s471,TV Show,Super Robot Monkey Team Hyperforce Go!,"United States, Japan","July 17, 2020",2004,TV-Y7,2 Seasons,Action-Adventure
+s472,Movie,The Mouseketeers at Walt Disney World,United States,"July 17, 2020",1977,TV-PG,56 min,Coming of Age
+s473,TV Show,Wild Chile,United Kingdom,"July 17, 2020",2017,TV-PG,1 Season,Animals & Nature
+s474,Movie,X-Men: Apocalypse,United States,"July 17, 2020",2016,PG-13,144 min,Action-Adventure
+s475,TV Show,Cosmos: A Spacetime Odyssey,United States,"July 10, 2020",2013,TV-PG,1 Season,Action-Adventure
+s476,Movie,Hamilton: History Has Its Eyes on You,United States,"July 10, 2020",2020,TV-PG,47 min,Historical
+s477,Movie,Solo: A Star Wars Story,United States,"July 10, 2020",2018,PG-13,135 min,Action-Adventure
+s478,Movie,X-Men: Days of Future Past,"United States, United Kingdom, Canada","July 10, 2020",2014,PG-13,132 min,Action-Adventure
+s479,Movie,The Undefeated Presents: Hamilton In-Depth,United States,"July 5, 2020",2020,TV-PG,33 min,Historical
+s480,TV Show,Animal ER,United States,"July 3, 2020",2016,TV-PG,2 Seasons,Animals & Nature
+s481,Movie,Diary of a Wimpy Kid: Rodrick Rules,United States,"July 3, 2020",2011,PG,100 min,Comedy
+s482,Movie,Hamilton,United States,"July 3, 2020",2020,PG-13,160 min,Biographical
+s483,Movie,Ice Age: Collision Course,"United States, United Kingdom, Australia","July 3, 2020",2016,PG,97 min,Action-Adventure
+s484,Movie,Race to Witch Mountain,United States,"July 3, 2020",2009,PG,100 min,Action-Adventure
+s485,Movie,The Big Green,United States,"July 3, 2020",1995,PG,100 min,Comedy
+s486,Movie,The Mighty Ducks,United States,"July 3, 2020",1992,PG,104 min,Comedy
+s487,Movie,While You Were Sleeping,United States,"July 3, 2020",1995,PG,104 min,Comedy
+s488,TV Show,Disney A.N.T. Farm,United States,"June 26, 2020",2011,TV-G,3 Seasons,Comedy
+s489,TV Show,Into the Unknown: Making Frozen 2,United States,"June 26, 2020",2020,TV-PG,1 Season,Docuseries
+s490,Movie,Man in Space,United States,"June 26, 2020",1955,TV-PG,49 min,Documentary
+s491,Movie,Mars and Beyond,United States,"June 26, 2020",1957,TV-G,53 min,Animation
+s492,Movie,Marvel Studios' Avengers: Infinity War,United States,"June 26, 2020",2018,PG-13,152 min,Action-Adventure
+s493,Movie,Tarzan,United States,"June 26, 2020",1999,G,93 min,Action-Adventure
+s494,Movie,Tarzan II,United States,"June 26, 2020",2005,G,75 min,Action-Adventure
+s496,Movie,Big Sur: Wild California,United States,"June 19, 2020",2010,TV-PG,47 min,Animals & Nature
+s498,Movie,Egypt's Treasure Guardians,United Kingdom,"June 19, 2020",2016,TV-PG,44 min,Documentary
+s499,Movie,The Jungle Book,"United Kingdom, United States","June 19, 2020",2016,PG,108 min,Action-Adventure
+s500,Movie,The Pirate Fairy,United States,"June 19, 2020",2014,G,78 min,Action-Adventure
+s501,Movie,Trail Mix-Up,United States,"June 19, 2020",1993,TV-G,9 min,Action-Adventure
+s502,Movie,Tummy Trouble,United States,"June 19, 2020",1989,TV-G,8 min,Action-Adventure
+s503,Movie,Artemis Fowl,United States,"June 12, 2020",2020,PG,96 min,Action-Adventure
+s504,TV Show,Mighty Med,United States,"June 12, 2020",2013,TV-Y7,2 Seasons,Comedy
+s505,Movie,The Liberty Story,United States,"June 12, 2020",1957,TV-PG,48 min,Drama
+s506,Movie,The Story of the Animated Drawing,United States,"June 12, 2020",1955,TV-PG,49 min,Documentary
+s507,Movie,Walt & El Grupo,United States,"June 12, 2020",2009,PG,108 min,Documentary
+s508,TV Show,Alaska's Grizzly Gauntlet,United States,"June 5, 2020",2018,TV-PG,1 Season,Animals & Nature
+s509,Movie,America's Greatest Animals,United States,"June 5, 2020",2012,TV-PG,90 min,Animals & Nature
+s511,TV Show,Howie Mandel's Animals Doing Things,United States,"June 5, 2020",2017,TV-PG,2 Seasons,Animals & Nature
+s512,TV Show,Japan: Between Earth and Sky,"France, Japan","June 5, 2020",2017,TV-PG,1 Season,Animals & Nature
+s513,Movie,Percy Jackson & The Olympians: The Lightning Thief,"United Kingdom, Canada, United States","June 5, 2020",2010,PG,119 min,Action-Adventure
+s514,TV Show,Secrets of Wild India,United Kingdom,"June 5, 2020",2012,TV-PG,1 Season,Animals & Nature
+s515,TV Show,The Greeks,United States,"June 5, 2020",2016,TV-PG,1 Season,Docuseries
+s516,TV Show,Wild Hawaii,United States,"June 5, 2020",2014,TV-PG,1 Season,Animals & Nature
+s517,Movie,Women Of Impact: Changing The World,United States,"June 5, 2020",2019,TV-PG,44 min,Documentary
+s518,Movie,"Maggie Simpson in ""The Longest Daycare""",United States,"May 29, 2020",2012,PG,5 min,Animation
+s519,Movie,Mickey and the Seal,United States,"May 29, 2020",1948,TV-G,7 min,Animation
+s520,TV Show,The Evermoor Chronicles,"United Kingdom, United States","May 29, 2020",2015,TV-PG,2 Seasons,Coming of Age
+s521,Movie,The Moon-Spinners,United States,"May 29, 2020",1964,PG,119 min,Crime
+s522,TV Show,Doc McStuffins,"United States, Ireland","May 22, 2020",2011,TV-Y7,5 Seasons,Animation
+s523,Movie,Fantastic Mr. Fox,"United States, United Kingdom","May 22, 2020",2009,PG,88 min,Animation
+s524,Movie,"Hello, Dolly!",United States,"May 22, 2020",1969,G,147 min,Comedy
+s526,Movie,Out,United States,"May 22, 2020",2020,PG,12 min,Animation
+s527,TV Show,The Big Fib,United States,"May 22, 2020",2019,TV-PG,1 Season,Family
+s528,Movie,The Boys: The Sherman Brothers' Story,United States,"May 22, 2020",2009,PG,102 min,Biographical
+s529,TV Show,It's a Dog's Life with Bill Farmer,United States,"May 15, 2020",2020,TV-PG,1 Season,Animals & Nature
+s530,Movie,Maleficent: Mistress of Evil,"United States, United Kingdom, Canada","May 15, 2020",2019,PG,121 min,Action-Adventure
+s531,Movie,Star Wars: The Rise of Skywalker (Episode IX),United States,"May 4, 2020",2019,PG-13,142 min,Action-Adventure
+s532,Movie,John Carter,United States,"May 2, 2020",2012,PG-13,134 min,Action-Adventure
+s534,TV Show,Birth of Europe,United Kingdom,"May 1, 2020",2014,TV-G,1 Season,Docuseries
+s535,Movie,Bride of Boogedy,United States,"May 1, 2020",1987,TV-PG,93 min,Action-Adventure
+s537,TV Show,Disney Prop Culture,United States,"May 1, 2020",2020,TV-PG,1 Season,Docuseries
+s538,Movie,George of the Jungle,United States,"May 1, 2020",1997,PG,93 min,Action-Adventure
+s539,Movie,Homeward Bound II: Lost in San Francisco,United States,"May 1, 2020",1996,G,90 min,Action-Adventure
+s540,Movie,Homeward Bound: The Incredible Journey,United States,"May 1, 2020",1993,G,85 min,Action-Adventure
+s541,Movie,How to Play Baseball,United States,"May 1, 2020",1942,TV-G,8 min,Animation
+s542,Movie,In Beaver Valley,United States,"May 1, 2020",1950,TV-PG,32 min,Animals & Nature
+s543,TV Show,Lost Treasures Of Egypt,United Kingdom,"May 1, 2020",2018,TV-PG,1 Season,Docuseries
+s544,TV Show,Love & Vets,United States,"May 1, 2020",2017,TV-PG,1 Season,Animals & Nature
+s545,Movie,Nature's Half Acre,United States,"May 1, 2020",1951,TV-PG,33 min,Animals & Nature
+s546,TV Show,Prairie Dog Manor,United States,"May 1, 2020",2019,TV-PG,1 Season,Animals & Nature
+s547,Movie,Prowlers of the Everglades,United States,"May 1, 2020",1953,TV-Y7,32 min,Animals & Nature
+s548,Movie,The Princess Bride,"United Kingdom, United States","May 1, 2020",1987,PG,99 min,Action-Adventure
+s549,TV Show,United States Of Animals,United States,"May 1, 2020",2015,TV-PG,1 Season,Animals & Nature
+s550,TV Show,Unlikely Animal Friends,United States,"May 1, 2020",2012,TV-G,3 Seasons,Animals & Nature
+s551,Movie,Water Birds,United States,"May 1, 2020",1952,TV-G,31 min,Animals & Nature
+s552,Movie,National Treasure,United States,"April 30, 2020",2004,PG,132 min,Action-Adventure
+s553,Movie,Born Wild: The Next Generation,United States,"April 28, 2020",2020,TV-PG,44 min,Animals & Nature
+s554,TV Show,America's Funniest Home Videos,United States,"April 24, 2020",1989,TV-PG,9 Seasons,Comedy
+s555,Movie,The Olympic Elk,United States,"April 24, 2020",1952,TV-G,27 min,Animals & Nature
+s556,TV Show,Tangled: The Series,United States,"April 23, 2020",2016,TV-Y7,3 Seasons,Action-Adventure
+s557,Movie,Jane Goodall: The Hope,United States,"April 22, 2020",2020,TV-14,89 min,Biographical
+s558,TV Show,Brain Games,United States,"April 17, 2020",2011,TV-G,8 Seasons,Docuseries
+s560,Movie,Let's Stick Together,United States,"April 17, 2020",1952,TV-G,7 min,Animation
+s561,Movie,Pluto's Purchase,United States,"April 17, 2020",1948,TV-G,7 min,Animation
+s562,TV Show,Tron Uprising,United States,"April 14, 2020",2011,TV-Y7,1 Season,Action-Adventure
+s563,Movie,A Celebration of the Music from Coco,United States,"April 10, 2020",2020,TV-PG,48 min,Concert Film
+s565,Movie,"Maggie Simpson in ""Playdate with Destiny""",United States,"April 10, 2020",2020,G,5 min,Animation
+s567,TV Show,Tut's Treasures: Hidden Secrets,United Kingdom,"April 10, 2020",2018,TV-PG,1 Season,Docuseries
+s568,Movie,A Tale of Two Critters,United States,"April 3, 2020",1977,G,48 min,Animals & Nature
+s569,Movie,All in a Nutshell,United States,"April 3, 2020",1949,TV-G,7 min,Animation
+s570,Movie,Disneynature Penguins,United States,"April 3, 2020",2019,G,77 min,Animals & Nature
+s571,Movie,Diving with Dolphins,United States,"April 3, 2020",2020,G,79 min,Animals & Nature
+s572,Movie,Dolphin Reef,United States,"April 3, 2020",2018,G,78 min,Animals & Nature
+s573,Movie,Don's Fountain of Youth,United States,"April 3, 2020",1953,TV-G,6 min,Animation
+s574,Movie,Donald's Dog Laundry,United States,"April 3, 2020",1940,TV-G,9 min,Animation
+s575,Movie,Double Dribble,United States,"April 3, 2020",1946,TV-G,8 min,Animation
+s576,Movie,Dragon Around,United States,"April 3, 2020",1954,TV-G,7 min,Animation
+s577,Movie,Elephant,United States,"April 3, 2020",2020,G,89 min,Animals & Nature
+s578,Movie,Elmer Elephant,United States,"April 3, 2020",1936,TV-G,8 min,Animation
+s579,TV Show,Fish Hooks,United States,"April 3, 2020",2010,TV-G,3 Seasons,Animation
+s580,Movie,How To Play Football,United States,"April 3, 2020",1944,TV-G,9 min,Animation
+s581,Movie,In the Footsteps of Elephant,United States,"April 3, 2020",2020,G,88 min,Animals & Nature
+s582,Movie,"Lambert, The Sheepish Lion",United States,"April 3, 2020",1952,TV-G,8 min,Animation
+s583,Movie,On Ice,United States,"April 3, 2020",1935,TV-G,9 min,Animation
+s584,Movie,Onward,United States,"April 3, 2020",2020,PG,103 min,Action-Adventure
+s585,Movie,Out of Scale,United States,"April 3, 2020",1951,TV-G,8 min,Animation
+s586,Movie,Penguins: Life on the Edge,United States,"April 3, 2020",2020,G,78 min,Animals & Nature
+s587,Movie,Pluto's Party,United States,"April 3, 2020",1952,TV-G,8 min,Animation
+s588,Movie,Sea Scouts,United States,"April 3, 2020",1939,TV-PG,8 min,Animation
+s589,TV Show,Sonny With A Chance,United States,"April 3, 2020",2008,TV-G,2 Seasons,Comedy
+s590,Movie,The Boy Who Talked to Badgers,United States,"April 3, 2020",1975,TV-PG,90 min,Action-Adventure
+s591,Movie,The New Neighbor,United States,"April 3, 2020",1953,TV-G,7 min,Animation
+s592,Movie,The Small One,United States,"April 3, 2020",1978,TV-PG,25 min,Animation
+s593,Movie,The Straight Story,"France, United Kingdom, United States","April 3, 2020",1999,G,112 min,Biographical
+s594,Movie,Frankenweenie,United States,"April 1, 2020",2012,PG,88 min,Animation
+s595,Movie,Mars Needs Moms,United States,"April 1, 2020",2011,PG,91 min,Action-Adventure
+s596,Movie,Prom,United States,"April 1, 2020",2011,PG,105 min,Comedy
+s597,Movie,The Last Song,United States,"April 1, 2020",2010,PG,109 min,Coming of Age
+s598,Movie,The Odd Life of Timothy Green,United States,"April 1, 2020",2012,PG,106 min,Drama
+s600,Movie,A Wrinkle in Time,United States,"March 25, 2020",2018,PG,112 min,Action-Adventure
+s601,TV Show,Disney I Didn't Do It,United States,"March 20, 2020",2013,TV-G,2 Seasons,Comedy
+s602,TV Show,Disney Insider,United States,"March 20, 2020",2020,TV-PG,1 Season,Anthology
+s604,Movie,G-Force,United States,"March 15, 2020",2009,PG,92 min,Action-Adventure
+s605,Movie,Frozen 2,United States,"March 14, 2020",2019,PG,107 min,Action-Adventure
+s606,Movie,Stargirl,United States,"March 13, 2020",2020,PG,107 min,Coming of Age
+s607,Movie,The Finest Hours,United States,"March 6, 2020",2016,PG-13,119 min,Action-Adventure
+s608,Movie,The Sandlot: Heading Home,"United States, Canada","March 6, 2020",2007,PG,97 min,Comedy
+s609,Movie,Bedtime Stories,United States,"March 5, 2020",2008,PG,101 min,Comedy
+s610,Movie,Marvel Studios' Black Panther,United States,"March 4, 2020",2018,PG-13,137 min,Action-Adventure
+s611,TV Show,101 Dalmatian Street,"United Kingdom, United States, Canada","February 28, 2020",2018,TV-Y7,1 Season,Action-Adventure
+s612,Movie,Disney Phineas and Ferb: Phineas and Ferb Star Wars,United States,"February 28, 2020",2014,TV-G,53 min,Action-Adventure
+s614,Movie,Viking Warrior Women,United Kingdom,"February 28, 2020",2019,TV-PG,44 min,Documentary
+s615,TV Show,Star Wars Resistance,United States,"February 25, 2020",2018,TV-Y7,2 Seasons,Action-Adventure
+s616,TV Show,Lost Cities With Albert Lin,United States,"February 21, 2020",2019,TV-PG,1 Season,Action-Adventure
+s617,Movie,Marvel Rising: Operation Shuri,United States,"February 21, 2020",2019,TV-Y7,23 min,Action-Adventure
+s618,Movie,Marvel Rising: Playing With Fire,United States,"February 21, 2020",2019,TV-Y7,45 min,Action-Adventure
+s619,TV Show,Star Wars: The Clone Wars,United States,"February 21, 2020",2008,TV-PG,7 Seasons,Action-Adventure
+s620,Movie,Marvel's Iron Man & Hulk: Heroes United,United States,"February 16, 2020",2013,PG,74 min,Action-Adventure
+s621,Movie,Because of Winn-Dixie,United States,"February 14, 2020",2005,PG,107 min,Comedy
+s622,TV Show,Fairy Tale Weddings,United States,"February 14, 2020",2017,TV-PG,2 Seasons,Docuseries
+s623,Movie,"My Dog, the Thief",United States,"February 14, 2020",1969,TV-PG,89 min,Action-Adventure
+s624,Movie,Splash,United States,"February 14, 2020",1984,TV-PG,110 min,Comedy
+s625,TV Show,That's So Raven,United States,"February 8, 2020",2002,TV-G,4 Seasons,Comedy
+s626,Movie,Timmy Failure: Mistakes Were Made,United States,"February 7, 2020",2020,PG,103 min,Buddy
+s627,Movie,Toy Story 4,United States,"February 5, 2020",2019,G,101 min,Action-Adventure
+s628,Movie,Descendants 3,United States,"February 2, 2020",2019,TV-G,109 min,Coming of Age
+s629,Movie,Around the World in 80 Days,"United States, Germany, Ireland, United Kingdom","February 1, 2020",2004,PG,121 min,Action-Adventure
+s630,Movie,Big Business,United States,"February 1, 2020",1988,PG,98 min,Comedy
+s631,Movie,Lamp Life,United States,"January 31, 2020",2020,TV-G,11 min,Animation
+s632,Movie,The Lion King,"United States, United Kingdom, South Africa","January 28, 2020",2019,PG,125 min,Action-Adventure
+s633,TV Show,Diary of a Future President,United States,"January 17, 2020",2020,TV-PG,2 Seasons,Comedy
+s635,TV Show,America's National Parks,United States,"January 15, 2020",2015,TV-14,1 Season,Animals & Nature
+s636,TV Show,Continent 7: Antarctica,United States,"January 15, 2020",2016,TV-PG,1 Season,Action-Adventure
+s637,TV Show,Disney Randy Cunningham: 9th Grade Ninja,"United Kingdom, United States, Ireland","January 15, 2020",2011,TV-Y7,2 Seasons,Action-Adventure
+s639,TV Show,The Lodge,United Kingdom,"January 15, 2020",2016,TV-G,2 Seasons,Coming of Age
+s641,Movie,Destino,"France, United States","January 10, 2020",2003,PG,6 min,Animation
+s642,Movie,Forky Asks a Question: What is Reading?,United States,"January 10, 2020",2020,TV-G,7 min,Animation
+s643,Movie,Loop,United States,"January 10, 2020",2020,PG,12 min,Animation
+s644,TV Show,Marvel's Runaways,United States,"January 10, 2020",2017,TV-14,3 Seasons,Coming of Age
+s645,Movie,Aladdin (2019),United States,"January 8, 2020",2019,PG,135 min,Action-Adventure
+s646,Movie,Forky Asks a Question: What is Cheese?,United States,"January 3, 2020",2020,TV-G,6 min,Animation
+s647,TV Show,Austin & Ally,United States,"January 1, 2020",2011,TV-G,4 Seasons,Comedy
+s648,TV Show,Billy Dilley's Super-Duper Subterranean Summer,United States,"January 1, 2020",2016,TV-Y7,1 Season,Animation
+s649,Movie,Cars Toon: El Materdor,United States,"January 1, 2020",2008,TV-G,4 min,Animation
+s650,Movie,Cars Toon: Moon Mater,United States,"January 1, 2020",2010,TV-G,4 min,Animation
+s651,Movie,Cars Toon: Rescue Squad Mater,United States,"January 1, 2020",2010,TV-Y7,3 min,Animation
+s652,Movie,Cars Toon: Spinning,United States,"January 1, 2020",2013,TV-G,2 min,Animation
+s653,Movie,Cars Toon: Time Travel Mater,United States,"January 1, 2020",2012,TV-G,7 min,Animation
+s654,Movie,Cars Toon: Tokyo Mater,United States,"January 1, 2020",2008,G,8 min,Animation
+s655,Movie,Cars Toon: Unidentified Flying Mater,United States,"January 1, 2020",2010,TV-Y7,4 min,Animation
+s656,Movie,Cars Toons: Bugged,United States,"January 1, 2020",2013,TV-G,2 min,Animation
+s657,Movie,Cool Runnings,United States,"January 1, 2020",1993,PG,99 min,Biographical
+s658,Movie,Drain Alcatraz,United States,"January 1, 2020",2017,TV-PG,47 min,Documentary
+s659,Movie,Drain The Bermuda Triangle,United States,"January 1, 2020",2014,TV-PG,45 min,Documentary
+s660,Movie,Drain The Great Lakes,"United Kingdom, Canada, United States","January 1, 2020",2011,TV-PG,45 min,Documentary
+s661,Movie,Drain The Ocean: WWII,United States,"January 1, 2020",2016,TV-PG,44 min,Documentary
+s662,Movie,Drain The Sunken Pirate City,United Kingdom,"January 1, 2020",2017,TV-14,48 min,Documentary
+s663,Movie,Drain The Titanic,"United Kingdom, Canada, United States","January 1, 2020",2015,TV-PG,45 min,Documentary
+s665,Movie,Hacksaw,United States,"January 1, 2020",1971,TV-PG,89 min,Animals & Nature
+s666,Movie,Holes,United States,"January 1, 2020",2003,PG,119 min,Coming of Age
+s667,Movie,Marvel 75 Years: From Pulp to Pop!,United States,"January 1, 2020",2014,TV-PG,42 min,Documentary
+s668,Movie,Marvel Rising: Battle of The Bands,United States,"January 1, 2020",2019,TV-Y7,23 min,Action-Adventure
+s669,TV Show,One Strange Rock,United States,"January 1, 2020",2017,TV-PG,1 Season,Animals & Nature
+s671,Movie,Super Rhino,United States,"January 1, 2020",2009,G,4 min,Action-Adventure
+s672,TV Show,The Proud Family,United States,"January 1, 2020",2001,TV-G,2 Seasons,Animation
+s673,TV Show,The Super Hero Squad,United States,"January 1, 2020",2009,TV-Y7,2 Seasons,Action-Adventure
+s674,TV Show,Year Million,United States,"January 1, 2020",2016,TV-PG,1 Season,Docuseries
+s675,Movie,Forky Asks a Question: What is a Pet?,United States,"December 27, 2019",2019,TV-G,7 min,Animation
+s676,Movie,Star Wars: The Last Jedi (Episode VIII),United States,"December 26, 2019",2017,PG-13,152 min,Action-Adventure
+s677,Movie,Forky Asks a Question: What is a Leader?,United States,"December 20, 2019",2019,TV-G,6 min,Animation
+s678,Movie,George of the Jungle 2,"United States, Australia","December 20, 2019",2003,PG,89 min,Action-Adventure
+s679,Movie,High School Musical: The Musical: The Series: The Special,United States,"December 20, 2019",2019,TV-G,23 min,Coming of Age
+s680,TV Show,Pick of the Litter,United States,"December 20, 2019",2019,TV-PG,1 Season,Animals & Nature
+s681,Movie,Togo,United States,"December 20, 2019",2019,PG,117 min,Action-Adventure
+s682,Movie,Forky Asks a Question: What is a Computer?,United States,"December 13, 2019",2019,TV-G,6 min,Animation
+s683,Movie,Wind,United States,"December 13, 2019",2019,G,9 min,Animation
+s684,Movie,Forky Asks a Question: What is Love?,United States,"December 6, 2019",2019,TV-G,7 min,Animation
+s686,Movie,Marvel Studios' Thor: Ragnarok,United States,"December 5, 2019",2017,PG-13,132 min,Action-Adventure
+s687,TV Show,Disney The Lion Guard,United States,"December 3, 2019",2015,TV-Y,3 Seasons,Action-Adventure
+s688,Movie,One Day at Disney,United States,"December 3, 2019",2019,TV-PG,62 min,Documentary
+s689,TV Show,Disney Star vs. the Forces of Evil,United States,"December 1, 2019",2014,TV-Y7,4 Seasons,Action-Adventure
+s690,Movie,Expedition Amelia,United States,"December 1, 2019",2019,TV-PG,94 min,Action-Adventure
+s691,Movie,Glory Road,United States,"December 1, 2019",2006,PG,119 min,Biographical
+s692,TV Show,Henry Hugglemonster,"Ireland, United Kingdom, United States, South Korea, Canada","December 1, 2019",2012,TV-Y,2 Seasons,Animation
+s694,Movie,Marvel Rising: Chasing Ghosts,United States,"December 1, 2019",2019,TV-Y7-FV,24 min,Action-Adventure
+s695,Movie,Marvel Rising: Heart of Iron,United States,"December 1, 2019",2019,TV-Y7,46 min,Action-Adventure
+s696,TV Show,Miles From Tomorrowland,United States,"December 1, 2019",2014,TV-Y,2 Seasons,Action-Adventure
+s697,TV Show,Sheriff Callie's Wild West,"United States, South Korea, France","December 1, 2019",2011,TV-Y,2 Seasons,Animation
+s698,TV Show,Supercar Megabuild,United States,"December 1, 2019",2016,TV-PG,2 Seasons,Buddy
+s700,Movie,Coco,United States,"November 29, 2019",2017,PG,105 min,Animation
+s702,Movie,Forky Asks a Question: What is Time?,United States,"November 29, 2019",2019,TV-G,6 min,Animation
+s703,Movie,The Wonderful World of Disney Presents The Little Mermaid Live!,United States,"November 27, 2019",2019,TV-PG,84 min,Concert Film
+s704,Movie,Forky Asks a Question: What is Art?,United States,"November 22, 2019",2019,TV-G,7 min,Animation
+s707,Movie,Forky Asks a Question: What is a Friend?,United States,"November 15, 2019",2019,TV-G,6 min,Animation
+s708,Movie,10 Things I Hate About You,United States,"November 12, 2019",1999,PG-13,98 min,Comedy
+s709,Movie,101 Dalmatians,United States,"November 12, 2019",1961,G,81 min,Action-Adventure
+s710,Movie,101 Dalmatians II: Patch's London Adventure,United States,"November 12, 2019",2003,G,77 min,Action-Adventure
+s711,Movie,102 Dalmatians,"United States, United Kingdom","November 12, 2019",2000,G,104 min,Action-Adventure
+s712,Movie,12 Dates of Christmas,United States,"November 12, 2019",2011,TV-PG,88 min,Comedy
+s713,Movie,"20,000 Leagues Under the Sea",United States,"November 12, 2019",1954,G,127 min,Action-Adventure
+s714,Movie,A Bug's Life,United States,"November 12, 2019",1998,G,98 min,Animation
+s715,Movie,A Goofy Movie,"United States, Australia, France, Canada","November 12, 2019",1995,G,81 min,Action-Adventure
+s716,Movie,A Kid in King Arthur's Court,"United States, Hungary, United Kingdom","November 12, 2019",1995,PG,90 min,Action-Adventure
+s717,Movie,A Knight for a Day,United States,"November 12, 2019",1946,TV-G,7 min,Animation
+s718,Movie,A Ring of Endless Light,United States,"November 12, 2019",2002,TV-G,88 min,Coming of Age
+s719,Movie,Aladdin (1992),United States,"November 12, 2019",1992,G,94 min,Action-Adventure
+s720,Movie,Aladdin and the King of Thieves,United States,"November 12, 2019",1996,G,86 min,Action-Adventure
+s721,Movie,Aladdin: The Return of Jafar,United States,"November 12, 2019",1994,G,71 min,Action-Adventure
+s722,Movie,Alice in Wonderland,United States,"November 12, 2019",1951,G,79 min,Action-Adventure
+s723,Movie,Aliens of the Deep,United States,"November 12, 2019",2005,G,100 min,Action-Adventure
+s724,Movie,Alley Cats Strike!,"United States, Canada","November 12, 2019",2000,TV-G,87 min,Coming of Age
+s725,Movie,Almost Angels,United States,"November 12, 2019",1962,TV-PG,90 min,Coming of Age
+s726,Movie,America's Heart & Soul,United States,"November 12, 2019",2004,PG,88 min,Documentary
+s727,Movie,Amy,United States,"November 12, 2019",1981,G,100 min,Drama
+s728,Movie,An Extremely Goofy Movie,"United States, Australia","November 12, 2019",2000,G,81 min,Animation
+s729,TV Show,Andi Mack,United States,"November 12, 2019",2016,TV-G,3 Seasons,Comedy
+s730,Movie,Annie,United States,"November 12, 2019",1999,TV-PG,91 min,Drama
+s731,Movie,Apollo: Missions To The Moon,United States,"November 12, 2019",2019,TV-PG,95 min,Documentary
+s732,Movie,Atlantis Rising,Canada,"November 12, 2019",2017,TV-PG,94 min,Documentary
+s733,Movie,Atlantis: Milo's Return,United States,"November 12, 2019",2003,G,83 min,Action-Adventure
+s734,Movie,Atlantis: The Lost Empire,United States,"November 12, 2019",2001,PG,98 min,Action-Adventure
+s735,Movie,Auntie Edna,United States,"November 12, 2019",2018,TV-G,7 min,Animation
+s736,Movie,Avatar,United States,"November 12, 2019",2009,PG-13,162 min,Action-Adventure
+s737,Movie,Babes in the Woods,United States,"November 12, 2019",1932,TV-Y7,8 min,Animation
+s738,Movie,Babes in Toyland,United States,"November 12, 2019",1961,TV-PG,106 min,Family
+s739,Movie,Bambi,United States,"November 12, 2019",1942,G,72 min,Animation
+s740,Movie,Bambi II,United States,"November 12, 2019",2006,G,75 min,Animation
+s741,Movie,Bao,"United States, Canada","November 12, 2019",2018,G,8 min,Animation
+s742,Movie,Beach Picnic,United States,"November 12, 2019",1939,TV-G,9 min,Animation
+s743,Movie,Bearly Asleep,United States,"November 12, 2019",1955,TV-PG,7 min,Animation
+s744,Movie,Beauty and the Beast: Belle's Magical World,United States,"November 12, 2019",1998,G,71 min,Animation
+s745,Movie,Beauty and the Beast: The Enchanted Christmas,"Canada, United States","November 12, 2019",1997,G,73 min,Animation
+s746,Movie,Beezy Bear,United States,"November 12, 2019",1955,TV-G,7 min,Animation
+s747,Movie,Before the Flood,United States,"November 12, 2019",2016,TV-14,96 min,Documentary
+s748,Movie,Benji the Hunted,United States,"November 12, 2019",1987,G,89 min,Action-Adventure
+s749,TV Show,Best Friends Whenever,United States,"November 12, 2019",2015,TV-G,2 Seasons,Buddy
+s751,Movie,Big Hero 6,United States,"November 12, 2019",2014,PG,105 min,Action-Adventure
+s753,Movie,Bizarre Dinosaurs,United States,"November 12, 2019",2009,TV-PG,46 min,Animals & Nature
+s754,Movie,Blank Check,United States,"November 12, 2019",1994,PG,94 min,Comedy
+s755,Movie,Boat Builders,United States,"November 12, 2019",1938,TV-G,8 min,Animation
+s756,Movie,Bolt,United States,"November 12, 2019",2008,PG,98 min,Action-Adventure
+s757,Movie,Bone Bandit,United States,"November 12, 2019",1948,TV-G,7 min,Animation
+s758,TV Show,Bonkers,"United States, Hong Kong, South Korea, France, Canada, China, United Kingdom, Australia, Japan, Taiwan, Philippines","November 12, 2019",1993,TV-G,1 Season,Animation
+s759,Movie,Boundin',United States,"November 12, 2019",2004,G,6 min,Animation
+s760,TV Show,Boy Meets World,United States,"November 12, 2019",1993,TV-PG,7 Seasons,Comedy
+s761,Movie,Brave,"United States, United Kingdom","November 12, 2019",2012,PG,94 min,Animation
+s762,Movie,Brave Little Toaster to the Rescue,United States,"November 12, 2019",1999,TV-G,75 min,Action-Adventure
+s763,Movie,Breaking2,United States,"November 12, 2019",2017,TV-PG,55 min,Documentary
+s764,Movie,Brink!,United States,"November 12, 2019",1998,TV-G,90 min,Coming of Age
+s765,Movie,Brother Bear,United States,"November 12, 2019",2003,G,90 min,Action-Adventure
+s766,Movie,Brother Bear 2,United States,"November 12, 2019",2006,G,78 min,Action-Adventure
+s767,Movie,Buffalo Dreams,United States,"November 12, 2019",2005,TV-G,90 min,Buddy
+s768,TV Show,Bug Juice: My Adventures at Camp,United States,"November 12, 2019",2017,TV-G,1 Season,Coming of Age
+s769,Movie,BURN-E,United States,"November 12, 2019",2008,TV-G,8 min,Animation
+s770,Movie,Cadet Kelly,"United States, Canada","November 12, 2019",2002,TV-G,100 min,Comedy
+s771,Movie,Camp Nowhere,United States,"November 12, 2019",1994,PG,96 min,Comedy
+s772,Movie,Camp Rock,United States,"November 12, 2019",2008,TV-G,96 min,Coming of Age
+s773,Movie,Camp Rock 2: The Final Jam,United States,"November 12, 2019",2010,TV-G,101 min,Coming of Age
+s774,Movie,Can of Worms,"United States, Canada","November 12, 2019",1999,TV-PG,84 min,Comedy
+s775,Movie,Candleshoe,"United Kingdom, United States","November 12, 2019",1978,G,101 min,Comedy
+s776,Movie,Canine Caddy,United States,"November 12, 2019",1941,TV-G,8 min,Animation
+s777,Movie,Cars,United States,"November 12, 2019",2006,G,117 min,Animation
+s778,Movie,Cars 2,United States,"November 12, 2019",2011,G,107 min,Animation
+s779,Movie,Cars 3,United States,"November 12, 2019",2017,G,103 min,Animation
+s780,Movie,Cars Toon: Air Mater,United States,"November 12, 2019",2011,TV-G,5 min,Animation
+s781,Movie,Cars Toon: Heavy Metal Mater,United States,"November 12, 2019",2010,TV-G,5 min,Animation
+s782,Movie,Cars Toon: Hiccups,United States,"November 12, 2019",2013,TV-G,3 min,Animation
+s783,Movie,Cars Toon: Mater Private Eye,United States,"November 12, 2019",2010,TV-Y7,6 min,Animation
+s784,Movie,Cars Toon: Mater the Greater,United States,"November 12, 2019",2008,TV-Y7,5 min,Animation
+s785,Movie,Cars Toon: Monster Truck Mater,United States,"November 12, 2019",2010,TV-Y7,6 min,Animation
+s786,Movie,Cars Toon: The Radiator Springs 500 1/2,United States,"November 12, 2019",2014,TV-Y7,6 min,Animation
+s787,Movie,Casebusters,United States,"November 12, 2019",1986,TV-PG,46 min,Drama
+s788,Movie,Cheetah,United States,"November 12, 2019",1989,G,84 min,Action-Adventure
+s789,Movie,Chef Donald,United States,"November 12, 2019",1941,TV-G,8 min,Animation
+s790,Movie,Chicken Little,United States,"November 12, 2019",2005,G,84 min,Animation
+s791,TV Show,Chip 'n Dale's Rescue Rangers,"United States, Taiwan, South Korea, China, Japan, United Kingdom","November 12, 2019",1989,TV-G,1 Season,Action-Adventure
+s792,Movie,Chip an' Dale,United States,"November 12, 2019",1947,TV-G,7 min,Animation
+s793,Movie,Cinderella,United States,"November 12, 2019",1950,G,77 min,Animation
+s794,Movie,Cinderella II: Dreams Come True,United States,"November 12, 2019",2002,G,77 min,Animation
+s795,Movie,Cinderella III: A Twist in Time,United States,"November 12, 2019",2007,G,79 min,Animation
+s796,Movie,Clock Cleaners,United States,"November 12, 2019",1937,TV-G,9 min,Animation
+s797,Movie,Cloud 9,United States,"November 12, 2019",2014,TV-G,89 min,Sports
+s798,Movie,College Road Trip,United States,"November 12, 2019",2008,G,84 min,Comedy
+s799,Movie,Confessions of a Teenage Drama Queen,"Germany, United States","November 12, 2019",2004,PG,91 min,Comedy
+s801,Movie,Corn Chips,United States,"November 12, 2019",1951,TV-G,7 min,Animation
+s802,Movie,Cow Belles,United States,"November 12, 2019",2006,TV-G,91 min,Comedy
+s803,TV Show,Crash & Bernstein,United States,"November 12, 2019",2012,TV-Y7,2 Seasons,Comedy
+s804,Movie,Dadnapped,United States,"November 12, 2019",2009,TV-G,85 min,Comedy
+s805,Movie,Darby O'Gill and the Little People,United States,"November 12, 2019",1959,G,91 min,Family
+s806,TV Show,Darkwing Duck,United States,"November 12, 2019",1991,TV-Y7,2 Seasons,Action-Adventure
+s807,Movie,Davy Crockett and the River Pirates,United States,"November 12, 2019",1956,G,81 min,Action-Adventure
+s808,Movie,"Davy Crockett, King of the Wild Frontier",United States,"November 12, 2019",1955,PG,93 min,Action-Adventure
+s809,Movie,Day & Night,United States,"November 12, 2019",2010,G,8 min,Animation
+s810,Movie,Decorating Disney: Holiday Magic,United States,"November 12, 2019",2017,TV-PG,42 min,Documentary
+s811,Movie,Deep Blue,"United Kingdom, Germany","November 12, 2019",2005,G,91 min,Animals & Nature
+s812,Movie,Descendants 2,United States,"November 12, 2019",2017,TV-G,114 min,Coming of Age
+s813,Movie,Diary Of A Wimpy Kid,"United States, United Kingdom","November 12, 2019",2010,PG,93 min,Comedy
+s814,Movie,Dinosaur,United States,"November 12, 2019",2000,PG,84 min,Action-Adventure
+s815,Movie,Disney Adventures in Babysitting,United States,"November 12, 2019",2016,TV-G,95 min,Action-Adventure
+s816,Movie,Disney Avalon High,United States,"November 12, 2019",2010,TV-G,91 min,Coming of Age
+s817,Movie,Disney Bad Hair Day,Canada,"November 12, 2019",2015,TV-G,93 min,Buddy
+s818,TV Show,Disney Bizaardvark,United States,"November 12, 2019",2015,TV-PG,3 Seasons,Buddy
+s819,Movie,Disney Den Brother,United States,"November 12, 2019",2010,TV-G,90 min,Comedy
+s820,Movie,Disney Descendants,United States,"November 12, 2019",2015,TV-G,114 min,Coming of Age
+s821,TV Show,Disney Descendants Wicked World (Shorts),United States,"November 12, 2019",2015,TV-G,2 Seasons,Animation
+s824,TV Show,Disney Family Sundays,United States,"November 12, 2019",2019,TV-G,1 Season,Anthology
+s825,TV Show,Disney Fast Layne,United States,"November 12, 2019",2018,TV-G,1 Season,Action-Adventure
+s826,Movie,Disney Girl vs. Monster,"United States, Canada","November 12, 2019",2012,TV-PG,90 min,Action-Adventure
+s827,TV Show,Disney Gravity Falls,United States,"November 12, 2019",2011,TV-Y7,2 Seasons,Action-Adventure
+s829,TV Show,Disney Jake and the Never Land Pirates,United States,"November 12, 2019",2010,TV-Y,4 Seasons,Action-Adventure
+s830,TV Show,Disney JONAS,United States,"November 12, 2019",2008,TV-G,2 Seasons,Comedy
+s832,TV Show,Disney K.C. Undercover,United States,"November 12, 2019",2014,TV-Y7,3 Seasons,Action-Adventure
+s833,TV Show,Disney Lab Rats: Elite Force,United States,"November 12, 2019",2015,TV-Y7,1 Season,Action-Adventure
+s834,TV Show,Disney Legend of the Three Caballeros,United States,"November 12, 2019",2017,TV-G,1 Season,Action-Adventure
+s835,TV Show,Disney Mickey Mouse Clubhouse,United States,"November 12, 2019",2005,TV-Y,5 Seasons,Animation
+s836,TV Show,Disney Milo Murphy's Law,United States,"November 12, 2019",2016,TV-Y7,2 Seasons,Action-Adventure
+s837,TV Show,Disney Minnie's Bow-Toons (Shorts),United States,"November 12, 2019",2011,TV-Y,3 Seasons,Animation
+s838,TV Show,Disney Stuck In The Middle,United States,"November 12, 2019",2015,TV-PG,3 Seasons,Comedy
+s839,TV Show,Disney Take Two With Phineas And Ferb (Shorts),United States,"November 12, 2019",2010,TV-G,1 Season,Animation
+s842,TV Show,Disney's Adventures Of The Gummi Bears,United States,"November 12, 2019",1985,TV-Y7,6 Seasons,Action-Adventure
+s843,TV Show,Disney's Doug,United States,"November 12, 2019",1996,TV-Y7,3 Seasons,Animation
+s846,TV Show,Disney's Hercules: The Animated Series,United States,"November 12, 2019",1998,TV-Y7,1 Season,Action-Adventure
+s847,TV Show,Disney's Kim Possible,"United States, Philippines, South Korea","November 12, 2019",2001,TV-G,4 Seasons,Action-Adventure
+s848,TV Show,Disney's Little Einsteins,United States,"November 12, 2019",2005,TV-Y,2 Seasons,Action-Adventure
+s849,TV Show,Disney's Mighty Ducks,United States,"November 12, 2019",1996,TV-Y7,1 Season,Action-Adventure
+s850,TV Show,Disney's Recess,United States,"November 12, 2019",1997,TV-Y7,3 Seasons,Animation
+s851,TV Show,Disney's The Emperor's New School,United States,"November 12, 2019",2005,TV-G,2 Seasons,Animation
+s852,Movie,Disney's The Kid,United States,"November 12, 2019",2000,PG,105 min,Comedy
+s853,TV Show,Disney's The Little Mermaid (Series),United States,"November 12, 2019",1992,TV-Y7,3 Seasons,Action-Adventure
+s854,Movie,Disneyland Around the Seasons (Walt Disney's Wonderful World of Color: 1961-69),United States,"November 12, 2019",1966,TV-PG,51 min,Documentary
+s855,Movie,Disneynature African Cats,United States,"November 12, 2019",2011,G,90 min,Animals & Nature
+s856,Movie,Disneynature Bears,United States,"November 12, 2019",2014,G,78 min,Animals & Nature
+s857,Movie,Disneynature Born in China,"United Kingdom, China, United States","November 12, 2019",2017,G,81 min,Animals & Nature
+s858,Movie,Disneynature Chimpanzee,"Tanzania, United States","November 12, 2019",2012,G,79 min,Animals & Nature
+s859,Movie,Disneynature Crimson Wing,"United States, United Kingdom","November 12, 2019",2008,G,78 min,Animals & Nature
+s860,Movie,Disneynature Monkey Kingdom,United States,"November 12, 2019",2015,G,82 min,Animals & Nature
+s861,Movie,Disneynature Wings of Life,"United States, Panama, Mexico","November 12, 2019",2011,G,81 min,Animals & Nature
+s862,TV Show,Dog Whisperer with Cesar Millan,United States,"November 12, 2019",2004,TV-G,6 Seasons,Animals & Nature
+s863,Movie,Don't Look Under the Bed,United States,"November 12, 2019",1999,TV-PG,93 min,Coming of Age
+s864,Movie,Donald's Golf Game,United States,"November 12, 2019",1938,TV-G,8 min,Animation
+s865,Movie,Donald's Tire Trouble,United States,"November 12, 2019",1943,TV-G,8 min,Animation
+s866,Movie,Double Teamed,United States,"November 12, 2019",2002,TV-G,93 min,Biographical
+s867,Movie,Doug's 1st Movie,United States,"November 12, 2019",1999,G,80 min,Animation
+s868,TV Show,"Dr. T, Lone Star Vet",United States,"November 12, 2019",2019,TV-PG,1 Season,Docuseries
+s869,Movie,DuckTales The Movie: Treasure of the Lost Lamp,"France, United States","November 12, 2019",1990,G,75 min,Action-Adventure
+s870,Movie,Dug's Special Mission,United States,"November 12, 2019",2009,TV-PG,6 min,Animation
+s871,Movie,Dumbo,"United States, United Kingdom, Australia, Canada","November 12, 2019",2019,PG,117 min,Action-Adventure
+s872,Movie,Early to Bed,United States,"November 12, 2019",1941,TV-G,9 min,Animation
+s873,Movie,Earth Live,United States,"November 12, 2019",2017,TV-PG,94 min,Animals & Nature
+s874,Movie,Easter Island Unsolved,United States,"November 12, 2019",2018,TV-14,45 min,Documentary
+s875,Movie,Eddie's Million Dollar Cook-off,United States,"November 12, 2019",2003,TV-G,86 min,Comedy
+s876,Movie,Eight Below,United States,"November 12, 2019",2006,PG,122 min,Action-Adventure
+s878,Movie,Emil and the Detectives,United States,"November 12, 2019",1964,TV-PG,98 min,Action-Adventure
+s879,Movie,Empire of Dreams: The Story of the Star Wars Trilogy,United States,"November 12, 2019",2004,TV-14,151 min,Documentary
+s880,TV Show,Encore!,United States,"November 12, 2019",2019,TV-14,1 Season,Music
+s881,Movie,Escape to Witch Mountain,United States,"November 12, 2019",1975,G,98 min,Action-Adventure
+s882,TV Show,Even Stevens,United States,"November 12, 2019",2000,TV-PG,3 Seasons,Comedy
+s883,Movie,Expedition Mars: Spirit & Opportunity,United States,"November 12, 2019",2019,TV-PG,88 min,Documentary
+s884,Movie,Fantasia,United States,"November 12, 2019",1940,G,126 min,Animation
+s885,Movie,Fantasia 2000,United States,"November 12, 2019",2000,G,76 min,Animation
+s886,TV Show,Fantastic Four (Series),United States,"November 12, 2019",1994,TV-Y7,1 Season,Action-Adventure
+s887,TV Show,Fantastic Four: World's Greatest Heroes,United States,"November 12, 2019",2007,TV-Y7,1 Season,Action-Adventure
+s888,Movie,Ferdinand the Bull,United States,"November 12, 2019",1938,TV-G,8 min,Animation
+s889,Movie,Finding Dory,United States,"November 12, 2019",2016,PG,98 min,Action-Adventure
+s890,Movie,Finding Nemo,"United States, Australia","November 12, 2019",2003,G,103 min,Action-Adventure
+s891,Movie,First Kid,United States,"November 12, 2019",1996,PG,102 min,Buddy
+s892,Movie,Flight of the Navigator,United States,"November 12, 2019",1986,PG,90 min,Action-Adventure
+s893,Movie,Float,United States,"November 12, 2019",2019,PG,10 min,Animation
+s894,Movie,Flowers and Trees,United States,"November 12, 2019",1932,TV-Y7,8 min,Animation
+s895,Movie,Flubber,United States,"November 12, 2019",1997,PG,96 min,Comedy
+s896,Movie,Food for Feudin',United States,"November 12, 2019",1950,TV-G,7 min,Animation
+s897,Movie,For the Birds,United States,"November 12, 2019",2001,G,4 min,Animation
+s898,Movie,Forky Asks a Question: What is Money?,United States,"November 12, 2019",2019,TV-G,6 min,Animation
+s899,Movie,Frank and Ollie,United States,"November 12, 2019",1995,PG,89 min,Biographical
+s900,Movie,Frankenweenie (Short),United States,"November 12, 2019",1984,PG,27 min,Drama
+s901,Movie,Freaky Friday,United States,"November 12, 2019",2003,PG,98 min,Comedy
+s902,Movie,Free Solo,United States,"November 12, 2019",2018,TV-PG,101 min,Action-Adventure
+s903,Movie,Frenemies,United States,"November 12, 2019",2012,TV-G,88 min,Anthology
+s904,Movie,Frozen,United States,"November 12, 2019",2013,PG,105 min,Animation
+s905,Movie,Full-Court Miracle,United States,"November 12, 2019",2003,TV-G,95 min,Coming of Age
+s906,Movie,Fun and Fancy Free,United States,"November 12, 2019",1947,G,74 min,Action-Adventure
+s907,Movie,Fuzzbucket,United States,"November 12, 2019",1986,TV-G,46 min,Buddy
+s908,TV Show,Gargoyles,United States,"November 12, 2019",1994,TV-Y7,3 Seasons,Action-Adventure
+s909,Movie,Geek Charming,United States,"November 12, 2019",2011,TV-G,99 min,Comedy
+s910,Movie,Genius,United States,"November 12, 2019",1999,TV-G,86 min,Comedy
+s911,Movie,George & A.J.,United States,"November 12, 2019",2009,TV-G,4 min,Animation
+s912,Movie,Geri's Game,United States,"November 12, 2019",1997,G,5 min,Animation
+s913,Movie,Get a Clue,United States,"November 12, 2019",2002,TV-G,84 min,Drama
+s915,TV Show,Girl Meets World,United States,"November 12, 2019",2013,TV-G,3 Seasons,Comedy
+s916,Movie,Go Figure,United States,"November 12, 2019",2005,TV-G,89 min,Coming of Age
+s917,Movie,Going to the Mat,United States,"November 12, 2019",2004,TV-G,92 min,Coming of Age
+s918,TV Show,Good Luck Charlie,United States,"November 12, 2019",2009,TV-G,4 Seasons,Comedy
+s919,Movie,"Good Luck Charlie, It's Christmas!",United States,"November 12, 2019",2011,TV-G,82 min,Comedy
+s920,TV Show,Goof Troop,United States,"November 12, 2019",1992,TV-Y7,1 Season,Animation
+s921,Movie,Gotta Kick it Up,United States,"November 12, 2019",2002,TV-G,85 min,Coming of Age
+s922,Movie,Grand Canyonscope,United States,"November 12, 2019",1954,TV-G,7 min,Animation
+s923,Movie,Grasshopper and the Ants,United States,"November 12, 2019",1934,TV-G,8 min,Animation
+s924,TV Show,Great Migrations,United States,"November 12, 2019",2010,TV-PG,1 Season,Animals & Nature
+s925,Movie,Greyfriars Bobby,United States,"November 12, 2019",1961,TV-G,91 min,Animals & Nature
+s926,Movie,Gus,United States,"November 12, 2019",1976,G,97 min,Animals & Nature
+s927,Movie,Halloweentown,United States,"November 12, 2019",1998,TV-PG,84 min,Action-Adventure
+s928,Movie,Halloweentown High,United States,"November 12, 2019",2004,TV-G,83 min,Action-Adventure
+s929,Movie,Halloweentown II: Kalabar's Revenge,United States,"November 12, 2019",2001,TV-PG,81 min,Action-Adventure
+s930,TV Show,Handy Manny,"United States, Canada","November 12, 2019",2006,TV-Y,3 Seasons,Animation
+s931,TV Show,Hannah Montana,United States,"November 12, 2019",2005,TV-G,4 Seasons,Comedy
+s932,Movie,Hannah Montana and Miley Cyrus: Best of Both Worlds Concert,United States,"November 12, 2019",2008,G,83 min,Concert Film
+s933,Movie,Hannah Montana The Movie,United States,"November 12, 2019",2009,G,105 min,Comedy
+s934,Movie,Hatching Pete,United States,"November 12, 2019",2009,TV-G,90 min,Comedy
+s935,Movie,Hawaiian Holiday,United States,"November 12, 2019",1937,TV-G,9 min,Animation
+s936,Movie,Heavyweights,United States,"November 12, 2019",1995,PG,98 min,Comedy
+s937,Movie,Herbie Goes Bananas,United States,"November 12, 2019",1980,G,93 min,Action-Adventure
+s938,Movie,Herbie Goes to Monte Carlo,United States,"November 12, 2019",1977,G,105 min,Action-Adventure
+s939,Movie,Herbie Rides Again,United States,"November 12, 2019",1974,G,89 min,Comedy
+s940,Movie,Hercules,"United States, France","November 12, 2019",1997,G,98 min,Action-Adventure
+s941,Movie,High School Musical,United States,"November 12, 2019",2006,TV-G,100 min,Coming of Age
+s942,Movie,High School Musical 2,United States,"November 12, 2019",2007,TV-G,114 min,Coming of Age
+s943,Movie,High School Musical 3: Senior Year,United States,"November 12, 2019",2008,G,121 min,Coming of Age
+s944,TV Show,High School Musical: The Musical: The Series,United States,"November 12, 2019",2019,TV-PG,2 Seasons,Comedy
+s945,Movie,Hocus Pocus,United States,"November 12, 2019",1993,PG,96 min,Comedy
+s946,Movie,Home on the Range,United States,"November 12, 2019",2004,PG,82 min,Animation
+s947,Movie,"Honey, I Blew Up the Kid",United States,"November 12, 2019",1992,PG,90 min,Comedy
+s948,Movie,"Honey, I Shrunk the Kids","United States, Mexico","November 12, 2019",1989,PG,94 min,Action-Adventure
+s949,Movie,"Honey, We Shrunk Ourselves",United States,"November 12, 2019",1997,PG,76 min,Action-Adventure
+s950,Movie,Horse Sense,United States,"November 12, 2019",1999,TV-G,92 min,Coming of Age
+s951,TV Show,Hostile Planet,United States,"November 12, 2019",2019,TV-PG,1 Season,Animals & Nature
+s952,Movie,Hounded,United States,"November 12, 2019",2001,TV-G,92 min,Animals & Nature
+s953,Movie,How Dogs Got Their Shapes,United States,"November 12, 2019",2016,TV-PG,44 min,Animals & Nature
+s954,Movie,How to Build a Better Boy,United States,"November 12, 2019",2014,TV-G,94 min,Action-Adventure
+s955,Movie,How to Fish,United States,"November 12, 2019",1942,TV-G,7 min,Animation
+s956,Movie,How to Swim,United States,"November 12, 2019",1942,TV-G,8 min,Animation
+s957,TV Show,Hulk and the Agents of S.M.A.S.H.,United States,"November 12, 2019",2012,TV-Y7,2 Seasons,Action-Adventure
+s958,Movie,I'll Be Home for Christmas,"United States, Canada","November 12, 2019",1998,PG,87 min,Action-Adventure
+s959,Movie,Ice Age: The Great Egg-Scapade,United States,"November 12, 2019",2016,TV-G,26 min,Animation
+s960,Movie,Ice Princess,"United States, Canada","November 12, 2019",2005,G,99 min,Coming of Age
+s961,Movie,Inner Workings,United States,"November 12, 2019",2016,G,6 min,Animation
+s962,Movie,Inside Out,United States,"November 12, 2019",2015,PG,95 min,Animation
+s963,Movie,Inspector Gadget,United States,"November 12, 2019",1999,PG,80 min,Action-Adventure
+s964,Movie,Inspector Gadget 2,United States,"November 12, 2019",2003,G,90 min,Action-Adventure
+s965,Movie,Into the Grand Canyon,United States,"November 12, 2019",2019,TV-PG,82 min,Action-Adventure
+s966,Movie,Into the Okavango,"United States, Angola, Botswana, Namibia, South Africa","November 12, 2019",2018,TV-PG,94 min,Action-Adventure
+s967,Movie,Invincible,United States,"November 12, 2019",2006,PG,105 min,Biographical
+s968,Movie,Invisible Sister,United States,"November 12, 2019",2015,TV-G,79 min,Comedy
+s969,TV Show,Iron Man (Series),United States,"November 12, 2019",1994,TV-Y7,1 Season,Action-Adventure
+s970,TV Show,Iron Man Armored Adventures,"Canada, United States, United Kingdom, France, Luxembourg","November 12, 2019",2008,TV-G,2 Seasons,Action-Adventure
+s971,Movie,Iron Will,United States,"November 12, 2019",1994,PG,109 min,Action-Adventure
+s972,Movie,Jack,United States,"November 12, 2019",1996,PG-13,113 min,Comedy
+s973,Movie,Jack-Jack Attack,United States,"November 12, 2019",2005,G,6 min,Animation
+s974,Movie,James and the Giant Peach,"United Kingdom, United States","November 12, 2019",1996,PG,81 min,Action-Adventure
+s975,Movie,Jane,United States,"November 12, 2019",2017,PG,90 min,Animals & Nature
+s976,TV Show,Jessie,United States,"November 12, 2019",2011,TV-PG,4 Seasons,Comedy
+s978,Movie,Johnny Kapahala: Back on Board,United States,"November 12, 2019",2007,TV-G,93 min,Coming of Age
+s979,Movie,Johnny Tsunami,United States,"November 12, 2019",1999,TV-G,92 min,Coming of Age
+s980,Movie,Jonas Brothers: The Concert Experience,United States,"November 12, 2019",2009,G,89 min,Concert Film
+s981,Movie,Journey to Shark Eden,United States,"November 12, 2019",2010,TV-G,47 min,Action-Adventure
+s982,Movie,Journey to the Center of the Earth,United States,"November 12, 2019",1959,G,130 min,Action-Adventure
+s983,Movie,Jump In!,United States,"November 12, 2019",2007,TV-G,86 min,Coming of Age
+s984,Movie,Jumping Ship,"Australia, United States","November 12, 2019",2001,TV-G,93 min,Action-Adventure
+s985,Movie,Jungle 2 Jungle,"United States, France","November 12, 2019",1997,PG,105 min,Comedy
+s986,Movie,Jungle Cat,United States,"November 12, 2019",1960,TV-PG,70 min,Animals & Nature
+s987,Movie,Kazaam,United States,"November 12, 2019",1996,PG,94 min,Action-Adventure
+s988,TV Show,Kickin' It,United States,"November 12, 2019",2010,TV-PG,4 Seasons,Action-Adventure
+s989,Movie,Kim Possible,United States,"November 12, 2019",2019,TV-G,88 min,Action-Adventure
+s990,Movie,Kim Possible Movie: So the Drama,United States,"November 12, 2019",2005,TV-G,70 min,Action-Adventure
+s992,Movie,Kingdom of the Blue Whale,United States,"November 12, 2019",2009,TV-PG,94 min,Animals & Nature
+s993,TV Show,Kingdom of the White Wolf,United States,"November 12, 2019",2019,TV-PG,1 Season,Action-Adventure
+s994,Movie,Kitbull,United States,"November 12, 2019",2019,PG,9 min,Animation
+s996,Movie,Kronk's New Groove,United States,"November 12, 2019",2005,G,78 min,Animation
+s997,Movie,La Luna,United States,"November 12, 2019",2012,G,7 min,Animation
+s998,TV Show,Lab Rats,United States,"November 12, 2019",2011,TV-Y7,4 Seasons,Action-Adventure
+s999,Movie,Lady and the Tramp,United States,"November 12, 2019",2019,PG,111 min,Action-Adventure
+s1000,Movie,Lava,United States,"November 12, 2019",2015,G,9 min,Animation
+s1001,TV Show,LEGO Disney Frozen: Northern Lights (Shorts),United States,"November 12, 2019",2016,TV-Y7,1 Season,Action-Adventure
+s1002,TV Show,LEGO Star Wars: All Stars,United States,"November 12, 2019",2018,TV-Y7,1 Season,Action-Adventure
+s1004,TV Show,LEGO Star Wars: Droid Tales,United States,"November 12, 2019",2014,TV-Y7,1 Season,Action-Adventure
+s1005,TV Show,LEGO Star Wars: Resistance Rises (Shorts),"United States, Denmark","November 12, 2019",2015,TV-Y7-FV,1 Season,Action-Adventure
+s1006,TV Show,LEGO Star Wars: The Freemaker Adventures,United States,"November 12, 2019",2015,TV-Y7,2 Seasons,Action-Adventure
+s1008,Movie,LEGO Star Wars: The New Yoda Chronicles - Clash of the Skywalkers,United States,"November 12, 2019",2014,TV-Y7,24 min,Action-Adventure
+s1009,Movie,LEGO Star Wars: The New Yoda Chronicles - Raid on Coruscant,"Denmark, China","November 12, 2019",2014,TV-Y7,24 min,Action-Adventure
+s1010,Movie,LEGO Star Wars: The New Yoda Chronicles – Duel of the Skywalkers,United States,"November 12, 2019",2014,TV-Y7,24 min,Action-Adventure
+s1011,Movie,LEGO Star Wars: The New Yoda Chronicles – Escape from the Jedi Temple,United States,"November 12, 2019",2014,TV-Y7,24 min,Action-Adventure
+s1012,Movie,LEGO Star Wars: The New Yoda Chronicles – Race for the Holocrons,United States,"November 12, 2019",2014,TV-Y7,24 min,Action-Adventure
+s1013,Movie,Lemonade Mouth,United States,"November 12, 2019",2011,TV-G,110 min,Coming of Age
+s1014,Movie,Lend a Paw,United States,"November 12, 2019",1941,TV-Y7,8 min,Animation
+s1015,Movie,Leroy & Stitch,United States,"November 12, 2019",2006,G,76 min,Action-Adventure
+s1016,Movie,Let it Shine,United States,"November 12, 2019",2012,TV-G,103 min,Coming of Age
+s1017,Movie,Life is Ruff,United States,"November 12, 2019",2005,TV-G,85 min,Animals & Nature
+s1018,Movie,Life With Mikey,United States,"November 12, 2019",1993,PG,92 min,Buddy
+s1019,Movie,Life-Size 2,United States,"November 12, 2019",2018,TV-14,82 min,Comedy
+s1020,Movie,Lifted,United States,"November 12, 2019",2006,G,5 min,Animation
+s1021,Movie,Lilo & Stitch,United States,"November 12, 2019",2002,TV-PG,86 min,Action-Adventure
+s1022,Movie,Lilo & Stitch 2: Stitch Has a Glitch,United States,"November 12, 2019",2005,PG,70 min,Animation
+s1023,TV Show,Lizzie McGuire,United States,"November 12, 2019",2000,TV-G,2 Seasons,Comedy
+s1024,Movie,Lonesome Ghosts,United States,"November 12, 2019",1937,TV-Y7,9 min,Animation
+s1025,TV Show,Lost Treasures of the Maya,"United States, Guatemala","November 12, 2019",2018,TV-PG,1 Season,Docuseries
+s1026,Movie,Lou,United States,"November 12, 2019",2017,G,7 min,Action-Adventure
+s1027,Movie,Luck of the Irish,United States,"November 12, 2019",2001,TV-G,86 min,Comedy
+s1028,Movie,Luxo Jr.,United States,"November 12, 2019",1986,G,2 min,Animation
+s1029,Movie,Magician Mickey,United States,"November 12, 2019",1937,TV-PG,8 min,Animation
+s1030,Movie,Mail Dog,United States,"November 12, 2019",1947,TV-G,7 min,Animation
+s1031,Movie,Man Among Cheetahs,United States,"November 12, 2019",2017,TV-PG,44 min,Animals & Nature
+s1032,Movie,Mars: Inside SpaceX,United States,"November 12, 2019",2018,TV-PG,47 min,Documentary
+s1033,TV Show,Marvel Comics X-Men,"United States, Canada","November 12, 2019",1992,TV-Y7,5 Seasons,Action-Adventure
+s1034,TV Show,Marvel Rising: Initiation (Shorts),United States,"November 12, 2019",2017,TV-Y7,1 Season,Action-Adventure
+s1035,Movie,Marvel Rising: Secret Warriors,United States,"November 12, 2019",2018,TV-Y7-FV,80 min,Action-Adventure
+s1036,Movie,Marvel Studios: Assembling A Universe,United States,"November 12, 2019",2014,TV-PG,43 min,Action-Adventure
+s1038,Movie,Marvel Studios' Ant-Man,United States,"November 12, 2019",2015,PG-13,119 min,Action-Adventure
+s1039,Movie,Marvel Studios' Avengers: Age of Ultron,United States,"November 12, 2019",2015,PG-13,143 min,Action-Adventure
+s1040,Movie,Marvel Studios' Avengers: Endgame,United States,"November 12, 2019",2019,PG-13,183 min,Action-Adventure
+s1041,Movie,Marvel Studios' Captain America: Civil War,United States,"November 12, 2019",2016,PG-13,150 min,Action-Adventure
+s1042,Movie,Marvel Studios' Captain America: The First Avenger,United States,"November 12, 2019",2011,PG-13,126 min,Action-Adventure
+s1043,Movie,Marvel Studios' Captain America: The Winter Soldier,United States,"November 12, 2019",2014,PG-13,138 min,Action-Adventure
+s1044,Movie,Marvel Studios' Captain Marvel,"United States, Australia","November 12, 2019",2019,PG-13,126 min,Action-Adventure
+s1045,Movie,Marvel Studios' Doctor Strange,United States,"November 12, 2019",2016,PG-13,116 min,Action-Adventure
+s1046,Movie,Marvel Studios' Guardians of the Galaxy,United States,"November 12, 2019",2014,PG-13,122 min,Action-Adventure
+s1047,Movie,Marvel Studios' Guardians of the Galaxy Vol. 2,United States,"November 12, 2019",2017,PG-13,137 min,Action-Adventure
+s1048,Movie,Marvel Studios' Iron Man,"United States, Canada","November 12, 2019",2008,PG-13,127 min,Action-Adventure
+s1049,Movie,Marvel Studios' Iron Man 2,United States,"November 12, 2019",2010,PG-13,125 min,Action-Adventure
+s1050,Movie,Marvel Studios' Iron Man 3,United States,"November 12, 2019",2013,PG-13,132 min,Action-Adventure
+s1051,Movie,Marvel Studios' The Avengers,United States,"November 12, 2019",2012,PG-13,145 min,Action-Adventure
+s1052,Movie,Marvel Studios' Thor,United States,"November 12, 2019",2011,PG-13,116 min,Action-Adventure
+s1053,Movie,Marvel Studios' Thor: The Dark World,United States,"November 12, 2019",2013,PG-13,114 min,Action-Adventure
+s1054,TV Show,Marvel Ultimate Spider-Man,United States,"November 12, 2019",2011,TV-Y7,4 Seasons,Action-Adventure
+s1055,TV Show,Marvel's Agent Carter,United States,"November 12, 2019",2014,TV-14,2 Seasons,Action-Adventure
+s1056,TV Show,Marvel's Ant-Man (Shorts),United States,"November 12, 2019",2016,TV-Y7,1 Season,Action-Adventure
+s1057,TV Show,Marvel's Avengers Assemble,United States,"November 12, 2019",2012,TV-Y7,5 Seasons,Action-Adventure
+s1059,TV Show,Marvel's Guardians of the Galaxy (Series),United States,"November 12, 2019",2015,TV-Y7,3 Seasons,Action-Adventure
+s1061,TV Show,Marvel's Hero Project,United States,"November 12, 2019",2019,TV-PG,1 Season,Docuseries
+s1062,TV Show,Marvel's Inhumans,United States,"November 12, 2019",2017,TV-14,1 Season,Action-Adventure
+s1065,Movie,Mary Poppins,United States,"November 12, 2019",1964,G,142 min,Family
+s1066,Movie,Mater and the Ghostlight,United States,"November 12, 2019",2006,TV-Y7,8 min,Animation
+s1067,Movie,Meet the Deedles,United States,"November 12, 2019",1998,PG,94 min,Buddy
+s1068,Movie,Meet the Robinsons,United States,"November 12, 2019",2007,G,97 min,Action-Adventure
+s1069,Movie,Melody Time,United States,"November 12, 2019",1948,TV-PG,76 min,Animation
+s1070,Movie,Mickey Down Under,United States,"November 12, 2019",1948,TV-G,7 min,Animation
+s1071,TV Show,Mickey Mouse (Shorts),United States,"November 12, 2019",2012,TV-G,5 Seasons,Animation
+s1072,TV Show,Mickey Mouse Club (1955-59),United States,"November 12, 2019",1955,TV-PG,1 Season,Family
+s1073,Movie,"Mickey, Donald, Goofy: The Three Musketeers",United States,"November 12, 2019",2004,G,71 min,Action-Adventure
+s1074,Movie,Mickey's Birthday Party,United States,"November 12, 2019",1942,TV-G,9 min,Animation
+s1075,Movie,Mickey's Christmas Carol,United States,"November 12, 2019",1983,G,26 min,Animation
+s1076,Movie,Mickey's Delayed Date,United States,"November 12, 2019",1947,TV-G,7 min,Animation
+s1077,Movie,Mickey's Once Upon a Christmas,United States,"November 12, 2019",1999,TV-G,67 min,Animation
+s1078,Movie,Mickey's Rival,United States,"November 12, 2019",1936,TV-G,9 min,Animation
+s1079,Movie,Mickey's Trailer,United States,"November 12, 2019",1938,TV-PG,8 min,Animation
+s1080,Movie,Mickey's Twice Upon a Christmas,United States,"November 12, 2019",2004,G,70 min,Animation
+s1081,Movie,Mighty Joe Young,United States,"November 12, 2019",1998,PG,116 min,Action-Adventure
+s1082,Movie,Mike's New Car,United States,"November 12, 2019",2002,TV-G,5 min,Animation
+s1083,Movie,Minutemen,United States,"November 12, 2019",2008,TV-G,91 min,Action-Adventure
+s1084,Movie,Miracle,"Canada, United States","November 12, 2019",2004,PG,137 min,Drama
+s1085,Movie,Miracle at Midnight,United States,"November 12, 2019",1998,TV-14,89 min,Drama
+s1086,Movie,Miracle in Lane 2,United States,"November 12, 2019",2000,TV-G,90 min,Biographical
+s1087,Movie,Miracle Landing on the Hudson,United States,"November 12, 2019",2014,TV-G,44 min,Action-Adventure
+s1088,Movie,Mission to the Sun,United States,"November 12, 2019",2018,TV-PG,44 min,Documentary
+s1089,Movie,Moana,United States,"November 12, 2019",2016,PG,108 min,Action-Adventure
+s1090,Movie,Mom's Got a Date With a Vampire,"Canada, United States","November 12, 2019",2000,TV-PG,83 min,Comedy
+s1091,Movie,Monsters University,United States,"November 12, 2019",2013,G,104 min,Animation
+s1092,Movie,"Monsters, Inc.",United States,"November 12, 2019",2001,G,93 min,Animation
+s1093,Movie,Motocrossed,United States,"November 12, 2019",2001,TV-G,92 min,Drama
+s1094,Movie,Mr. Boogedy,United States,"November 12, 2019",1986,TV-PG,46 min,Comedy
+s1095,Movie,Mr. Duck Steps Out,United States,"November 12, 2019",1940,TV-G,9 min,Animation
+s1096,Movie,Mr. Mouse Takes a Trip,United States,"November 12, 2019",1940,TV-G,8 min,Animation
+s1097,Movie,Mulan II,"United States, South Korea, Singapore, Russia, Malaysia, Kazakhstan, Taiwan, Hong Kong, Japan, China, India, Syria, Iran, Egypt, Pakistan","November 12, 2019",2005,G,82 min,Action-Adventure
+s1098,TV Show,Muppet Moments (Shorts),United States,"November 12, 2019",2014,TV-Y7,1 Season,Anthology
+s1099,Movie,Muppet Treasure Island,United States,"November 12, 2019",1996,G,101 min,Action-Adventure
+s1100,Movie,Muppets Most Wanted,United States,"November 12, 2019",2014,PG,111 min,Action-Adventure
+s1101,Movie,My Favorite Martian,United States,"November 12, 2019",1999,PG,94 min,Comedy
+s1102,TV Show,My Friends Tigger & Pooh,United States,"November 12, 2019",2006,TV-Y,2 Seasons,Animation
+s1103,Movie,National Treasure: Book of Secrets,United States,"November 12, 2019",2007,PG,125 min,Action-Adventure
+s1104,Movie,Newsies,United States,"November 12, 2019",1992,PG,122 min,Coming of Age
+s1105,Movie,Newsies: The Broadway Musical,United States,"November 12, 2019",2017,PG,134 min,Coming of Age
+s1106,Movie,Noelle,United States,"November 12, 2019",2019,G,105 min,Comedy
+s1107,Movie,Now You See It,United States,"November 12, 2019",2005,TV-G,89 min,Coming of Age
+s1108,Movie,Olaf's Frozen Adventure,United States,"November 12, 2019",2017,G,25 min,Animation
+s1109,Movie,Old Yeller,United States,"November 12, 2019",1957,G,84 min,Animals & Nature
+s1110,Movie,Oliver & Company,United States,"November 12, 2019",1988,G,76 min,Action-Adventure
+s1111,Movie,Once Upon a Mattress,United States,"November 12, 2019",2005,TV-PG,88 min,Comedy
+s1112,Movie,One Magic Christmas,"Canada, United States","November 12, 2019",1985,G,89 min,Drama
+s1113,Movie,One Man Band,United States,"November 12, 2019",2006,G,5 min,Animation
+s1114,Movie,Operation Dumbo Drop,United States,"November 12, 2019",1995,PG,109 min,Action-Adventure
+s1115,TV Show,Origins: The Journey of Humankind,United States,"November 12, 2019",2016,TV-14,1 Season,Docuseries
+s1116,TV Show,Out of the Box,United States,"November 12, 2019",1998,TV-G,3 Seasons,Kids
+s1117,Movie,Paris To Pittsburgh,United States,"November 12, 2019",2018,TV-PG,77 min,Documentary
+s1118,Movie,Partly Cloudy,United States,"November 12, 2019",2009,G,6 min,Animation
+s1119,Movie,Party Central,United States,"November 12, 2019",2014,PG,7 min,Animation
+s1120,Movie,Perri,United States,"November 12, 2019",1957,G,75 min,Animals & Nature
+s1121,Movie,Pete's Dragon,United States,"November 12, 2019",2016,PG,106 min,Action-Adventure
+s1122,Movie,Peter Pan,United States,"November 12, 2019",1953,G,79 min,Action-Adventure
+s1123,Movie,Peter Pan: Return to Never Land,"United States, Canada, Australia","November 12, 2019",2002,G,77 min,Action-Adventure
+s1124,Movie,Phantom of the Megaplex,"United States, Canada","November 12, 2019",2000,TV-G,89 min,Comedy
+s1125,TV Show,Phil of the Future,United States,"November 12, 2019",2003,TV-G,2 Seasons,Comedy
+s1126,TV Show,Phineas and Ferb,"United States, South Korea, China, Taiwan","November 12, 2019",2007,TV-G,4 Seasons,Action-Adventure
+s1127,Movie,Phineas and Ferb the Movie: Across the 2nd Dimension,"United States, Taiwan, China","November 12, 2019",2011,TV-G,79 min,Action-Adventure
+s1129,Movie,Piglet's Big Movie,United States,"November 12, 2019",2003,G,78 min,Action-Adventure
+s1130,Movie,Pinocchio,United States,"November 12, 2019",1940,G,90 min,Animation
+s1131,Movie,Piper,United States,"November 12, 2019",2016,G,6 min,Animals & Nature
+s1132,Movie,Pirates of the Caribbean: At World's End,United States,"November 12, 2019",2007,PG-13,169 min,Action-Adventure
+s1133,Movie,Pirates of the Caribbean: Dead Man's Chest,United States,"November 12, 2019",2006,PG-13,152 min,Action-Adventure
+s1134,Movie,Pirates of the Caribbean: The Curse of the Black Pearl,United States,"November 12, 2019",2003,PG-13,144 min,Action-Adventure
+s1135,TV Show,Pixar In Real Life,United States,"November 12, 2019",2019,TV-G,1 Season,Anthology
+s1136,Movie,Pixel Perfect,United States,"November 12, 2019",2004,TV-G,90 min,Comedy
+s1138,Movie,Pluto and the Gopher,United States,"November 12, 2019",1950,TV-PG,7 min,Animation
+s1139,Movie,Pluto's Christmas Tree,United States,"November 12, 2019",1952,TV-Y7,7 min,Animation
+s1140,Movie,Pluto's Surprise Package,United States,"November 12, 2019",1949,TV-G,7 min,Animation
+s1141,Movie,Pluto's Sweater,United States,"November 12, 2019",1949,TV-G,7 min,Animation
+s1142,Movie,Pocahontas,United States,"November 12, 2019",1995,G,85 min,Action-Adventure
+s1143,Movie,Pocahontas II: Journey to a New World,United States,"November 12, 2019",1998,G,77 min,Action-Adventure
+s1144,Movie,Pollyanna,United States,"November 12, 2019",1960,G,135 min,Coming of Age
+s1145,Movie,Pooh's Grand Adventure: The Search for Christopher Robin,United States,"November 12, 2019",1997,TV-G,78 min,Action-Adventure
+s1146,Movie,Pooh's Heffalump Movie,United States,"November 12, 2019",2005,G,73 min,Action-Adventure
+s1147,Movie,Presto,United States,"November 12, 2019",2008,G,5 min,Animation
+s1148,Movie,Princess Protection Program,United States,"November 12, 2019",2009,TV-G,90 min,Buddy
+s1149,Movie,Purl,United States,"November 12, 2019",2019,PG,12 min,Animation
+s1150,TV Show,Quack Pack,United States,"November 12, 2019",1996,TV-Y,1 Season,Action-Adventure
+s1151,Movie,Queen of Katwe,United States,"November 12, 2019",2016,PG,125 min,Biographical
+s1152,Movie,Quints,"Canada, United States","November 12, 2019",2000,TV-G,83 min,Comedy
+s1153,Movie,Ratatouille,United States,"November 12, 2019",2007,G,111 min,Animation
+s1154,Movie,Read It and Weep,United States,"November 12, 2019",2006,TV-G,85 min,Comedy
+s1155,Movie,Ready to Run,"United States, New Zealand","November 12, 2019",2000,TV-G,89 min,Animals & Nature
+s1156,Movie,Recess: All Growed Down,United States,"November 12, 2019",2003,G,61 min,Animation
+s1157,Movie,Recess: School's Out,"United States, Japan","November 12, 2019",2001,G,87 min,Animation
+s1158,Movie,Recess: Taking the 5th Grade,United States,"November 12, 2019",2003,G,63 min,Animation
+s1159,Movie,Red's Dream,United States,"November 12, 2019",1987,TV-G,4 min,Animation
+s1160,Movie,Remember the Titans,United States,"November 12, 2019",2000,PG,114 min,Drama
+s1161,Movie,Rescue Dog,United States,"November 12, 2019",1947,TV-G,7 min,Animation
+s1162,Movie,Return from Witch Mountain,United States,"November 12, 2019",1978,G,94 min,Action-Adventure
+s1163,Movie,Return to Halloweentown,United States,"November 12, 2019",2006,TV-PG,89 min,Family
+s1164,Movie,Return to Oz,"United Kingdom, United States","November 12, 2019",1985,PG,110 min,Action-Adventure
+s1165,Movie,Richie Rich's Christmas Wish,United States,"November 12, 2019",1998,G,85 min,Action-Adventure
+s1166,Movie,Right on Track,United States,"November 12, 2019",2003,TV-G,88 min,Buddy
+s1167,Movie,Riley’s First Date?,United States,"November 12, 2019",2015,G,8 min,Animation
+s1168,Movie,Rip Girls,"Australia, United States","November 12, 2019",2000,TV-G,87 min,Coming of Age
+s1169,Movie,Robin Hood,United States,"November 12, 2019",1973,G,85 min,Action-Adventure
+s1170,TV Show,Rocky Mountain Animal Rescue,United States,"November 12, 2019",2018,TV-PG,1 Season,Animals & Nature
+s1171,Movie,Rogue One: A Star Wars Story,United States,"November 12, 2019",2016,PG-13,134 min,Action-Adventure
+s1172,Movie,Roving Mars,United States,"November 12, 2019",2006,G,41 min,Documentary
+s1173,Movie,Ruby Bridges,United States,"November 12, 2019",1998,TV-PG,90 min,Biographical
+s1174,Movie,Sacred Planet,"Canada, Malaysia, United States","November 12, 2019",2004,G,47 min,Animals & Nature
+s1175,Movie,Saludos Amigos,United States,"November 12, 2019",1943,TV-PG,42 min,Animation
+s1176,Movie,"Sammy, The Way-Out Seal",United States,"November 12, 2019",1962,TV-G,43 min,Animals & Nature
+s1177,Movie,Sanjay's Super Team,United States,"November 12, 2019",2015,PG,7 min,Action-Adventure
+s1178,Movie,Santa Paws 2: The Santa Pups,United States,"November 12, 2019",2012,G,92 min,Fantasy
+s1179,Movie,Santa's Workshop,United States,"November 12, 2019",1932,TV-G,7 min,Animation
+s1180,Movie,Saving Mr. Banks,"United States, United Kingdom, Australia","November 12, 2019",2013,PG-13,129 min,Biographical
+s1181,Movie,Science Fair,United States,"November 12, 2019",2018,PG,91 min,Documentary
+s1182,Movie,Sea of Hope: America's Underwater Treasures,United States,"November 12, 2019",2017,TV-PG,47 min,Action-Adventure
+s1183,Movie,Secret of The Wings,"United States, India, United Kingdom","November 12, 2019",2012,G,79 min,Animation
+s1184,Movie,Secretariat,United States,"November 12, 2019",2010,PG,124 min,Animals & Nature
+s1185,Movie,Secrets of Christ's Tomb: Explorer Special,United States,"November 12, 2019",2017,TV-PG,47 min,Documentary
+s1186,Movie,Secrets of Life,United States,"November 12, 2019",1956,TV-PG,70 min,Animals & Nature
+s1187,Movie,Secrets of the King Cobra,India,"November 12, 2019",2012,TV-PG,47 min,Animals & Nature
+s1188,TV Show,Shake It Up,United States,"November 12, 2019",2010,TV-G,3 Seasons,Buddy
+s1189,Movie,Sharks of Lost Island,United States,"November 12, 2019",2013,TV-PG,45 min,Action-Adventure
+s1190,Movie,Sharpay's Fabulous Adventure,United States,"November 12, 2019",2011,TV-G,92 min,Comedy
+s1191,Movie,Shipwrecked,"Norway, Sweden, United States","November 12, 2019",1991,PG,93 min,Action-Adventure
+s1192,TV Show,Silver Surfer,"United States, Canada","November 12, 2019",1997,TV-Y7,1 Season,Action-Adventure
+s1193,Movie,Simpsons Movie,United States,"November 12, 2019",2007,PG-13,88 min,Action-Adventure
+s1194,Movie,Sister Act,United States,"November 12, 2019",1992,PG,101 min,Comedy
+s1195,Movie,Sister Act 2: Back in the Habit,United States,"November 12, 2019",1993,PG,108 min,Comedy
+s1196,Movie,Skyrunners,United States,"November 12, 2019",2009,TV-PG,93 min,Action-Adventure
+s1197,Movie,Sleeping Beauty,United States,"November 12, 2019",1959,G,77 min,Animation
+s1198,Movie,Smart House,United States,"November 12, 2019",1999,TV-G,82 min,Comedy
+s1199,Movie,Smash and Grab,United States,"November 12, 2019",2019,PG,8 min,Animation
+s1200,Movie,Snow White and The Seven Dwarfs,United States,"November 12, 2019",1937,G,84 min,Animation
+s1201,Movie,Snowball Express,United States,"November 12, 2019",1972,G,94 min,Comedy
+s1202,Movie,Snowglobe,United States,"November 12, 2019",2007,TV-PG,90 min,Comedy
+s1203,TV Show,So Weird,Canada,"November 12, 2019",1999,TV-Y7,3 Seasons,Fantasy
+s1204,Movie,Society Dog Show,United States,"November 12, 2019",1939,TV-G,9 min,Animation
+s1206,TV Show,Spider-Man and His Amazing Friends,United States,"November 12, 2019",1982,TV-Y7,1 Season,Action-Adventure
+s1207,TV Show,Spider-Man Unlimited,"United States, Canada","November 12, 2019",1999,TV-Y7,1 Season,Action-Adventure
+s1208,TV Show,Spider-Woman,United States,"November 12, 2019",1979,TV-Y7,1 Season,Action-Adventure
+s1209,TV Show,Star Wars Forces of Destiny (Shorts),United States,"November 12, 2019",2016,TV-Y7,2 Seasons,Action-Adventure
+s1210,TV Show,Star Wars Rebels,United States,"November 12, 2019",2014,TV-Y7,4 Seasons,Action-Adventure
+s1212,Movie,Star Wars: A New Hope (Episode IV),United States,"November 12, 2019",1977,PG,125 min,Action-Adventure
+s1213,Movie,Star Wars: Attack of the Clones (Episode II),United States,"November 12, 2019",2002,PG,143 min,Action-Adventure
+s1214,TV Show,Star Wars: Blips,United States,"November 12, 2019",2019,TV-Y7-FV,1 Season,Series
+s1215,Movie,Star Wars: Return of the Jedi (Episode VI),United States,"November 12, 2019",1983,PG,135 min,Action-Adventure
+s1216,Movie,Star Wars: Revenge of the Sith (Episode III),United States,"November 12, 2019",2005,PG-13,140 min,Action-Adventure
+s1217,Movie,Star Wars: The Empire Strikes Back (Episode V),United States,"November 12, 2019",1980,PG,127 min,Action-Adventure
+s1218,Movie,Star Wars: The Force Awakens (Episode VII),United States,"November 12, 2019",2015,PG-13,139 min,Action-Adventure
+s1219,Movie,Star Wars: The Phantom Menace (Episode I),United States,"November 12, 2019",1999,PG,136 min,Action-Adventure
+s1220,Movie,Starstruck,United States,"November 12, 2019",2010,TV-G,81 min,Comedy
+s1221,Movie,Steamboat Willie,United States,"November 12, 2019",1928,TV-Y7,8 min,Animation
+s1222,Movie,Stepsister from Planet Weird,United States,"November 12, 2019",2000,TV-G,86 min,Comedy
+s1223,Movie,Stitch! The Movie,United States,"November 12, 2019",2003,G,62 min,Animation
+s1224,Movie,Stonehenge Decoded: Secrets Revealed,United Kingdom,"November 12, 2019",2008,TV-PG,44 min,Documentary
+s1225,Movie,Stuck in the Suburbs,United States,"November 12, 2019",2004,TV-G,79 min,Comedy
+s1226,Movie,Sultan and the Rock Star,United States,"November 12, 2019",1980,TV-PG,47 min,Action-Adventure
+s1227,Movie,Super Buddies,United States,"November 12, 2019",2013,G,83 min,Action-Adventure
+s1228,Movie,Swiss Family Robinson,United States,"November 12, 2019",1940,PG,94 min,Action-Adventure
+s1229,TV Show,TaleSpin,United States,"November 12, 2019",1990,TV-G,1 Season,Action-Adventure
+s1230,Movie,Tall Tale,United States,"November 12, 2019",1995,PG,97 min,Action-Adventure
+s1231,Movie,Tangled,United States,"November 12, 2019",2010,PG,101 min,Action-Adventure
+s1232,Movie,Tangled Before Ever After,United States,"November 12, 2019",2017,TV-Y7,58 min,Animation
+s1233,Movie,Tarzan & Jane,United States,"November 12, 2019",2002,TV-PG,78 min,Action-Adventure
+s1234,Movie,Teacher's Pet,United States,"November 12, 2019",2004,PG,75 min,Animation
+s1235,Movie,Teen Beach 2,United States,"November 12, 2019",2015,TV-G,106 min,Fantasy
+s1236,Movie,Teen Beach Movie,United States,"November 12, 2019",2013,TV-G,97 min,Coming of Age
+s1237,Movie,Teen Spirit,United States,"November 12, 2019",2011,TV-14,82 min,Buddy
+s1238,Movie,That Darn Cat,United States,"November 12, 2019",1997,PG,90 min,Animals & Nature
+s1239,Movie,That Darn Cat!,United States,"November 12, 2019",1965,G,116 min,Animals & Nature
+s1240,Movie,The Absent-Minded Professor,United States,"November 12, 2019",1961,G,96 min,Comedy
+s1241,Movie,The Adventures of André & Wally B.,United States,"November 12, 2019",1984,TV-G,2 min,Animation
+s1242,Movie,The Adventures of Bullwhip Griffin,United States,"November 12, 2019",1967,TV-PG,111 min,Action-Adventure
+s1243,Movie,The Adventures of Huck Finn,United States,"November 12, 2019",1993,PG,108 min,Action-Adventure
+s1244,Movie,The Adventures of Ichabod and Mr. Toad,United States,"November 12, 2019",1949,G,69 min,Action-Adventure
+s1245,TV Show,The Adventures of Spin and Marty,United States,"November 12, 2019",1955,TV-G,1 Season,Buddy
+s1246,Movie,The African Lion,United States,"November 12, 2019",1955,G,72 min,Animals & Nature
+s1247,Movie,The Apple Dumpling Gang,United States,"November 12, 2019",1975,G,100 min,Comedy
+s1248,Movie,The Apple Dumpling Gang Rides Again,United States,"November 12, 2019",1979,G,89 min,Comedy
+s1249,Movie,The Aristocats,United States,"November 12, 2019",1970,G,81 min,Action-Adventure
+s1250,Movie,The Art of Skiing,United States,"November 12, 2019",1941,TV-G,8 min,Animation
+s1251,TV Show,The Avengers: Earth's Mightiest Heroes,United States,"November 12, 2019",2010,TV-Y7,2 Seasons,Action-Adventure
+s1252,TV Show,The Avengers: United They Stand,"France, Canada, United States","November 12, 2019",1999,TV-Y7,1 Season,Action-Adventure
+s1253,Movie,The Band Concert,United States,"November 12, 2019",1935,TV-Y7,10 min,Animation
+s1254,Movie,The Bears and I,United States,"November 12, 2019",1974,TV-PG,83 min,Animals & Nature
+s1255,Movie,The Big Bad Wolf,United States,"November 12, 2019",1934,TV-Y7,9 min,Animation
+s1256,Movie,The Biscuit Eater,United States,"November 12, 2019",1972,G,93 min,Animals & Nature
+s1257,Movie,The Black Cauldron,"United States, United Kingdom","November 12, 2019",1985,PG,82 min,Action-Adventure
+s1258,Movie,The Black Hole,United States,"November 12, 2019",1979,PG,98 min,Action-Adventure
+s1259,Movie,The Blue Umbrella,United States,"November 12, 2019",2013,G,7 min,Animation
+s1261,TV Show,The Book of Pooh,United States,"November 12, 2019",2000,TV-Y,2 Seasons,Comedy
+s1262,Movie,The Brave Little Toaster Goes to Mars,United States,"November 12, 2019",1998,TV-G,73 min,Action-Adventure
+s1263,Movie,The Castaway Cowboy,United States,"November 12, 2019",1974,G,91 min,Action-Adventure
+s1264,Movie,The Cheetah Girls,"Canada, United States","November 12, 2019",2003,TV-G,94 min,Coming of Age
+s1265,Movie,The Cheetah Girls 2,United States,"November 12, 2019",2006,TV-G,98 min,Coming of Age
+s1266,Movie,The Cheetah Girls: One World,United States,"November 12, 2019",2008,TV-G,85 min,Comedy
+s1267,Movie,The Christmas Star,"Canada, United States","November 12, 2019",1986,TV-G,94 min,Crime
+s1268,Movie,The Chronicles of Narnia: Prince Caspian,"United States, Poland, Slovenia, Czech Republic, United Kingdom","November 12, 2019",2008,PG,154 min,Action-Adventure
+s1269,Movie,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","United Kingdom, United States","November 12, 2019",2005,PG,147 min,Action-Adventure
+s1270,Movie,The Color of Friendship,"Canada, United States","November 12, 2019",2000,TV-G,83 min,Biographical
+s1271,Movie,The Computer Wore Tennis Shoes,United States,"November 12, 2019",1969,G,90 min,Comedy
+s1272,Movie,The Country Bears,United States,"November 12, 2019",2002,G,91 min,Comedy
+s1273,Movie,The Emperor's New Groove,United States,"November 12, 2019",2000,G,82 min,Action-Adventure
+s1274,Movie,The Even Stevens Movie,United States,"November 12, 2019",2003,TV-G,94 min,Action-Adventure
+s1275,Movie,The Flood,United States,"November 12, 2019",2018,TV-PG,93 min,Animals & Nature
+s1276,Movie,The Fox and the Hound,United States,"November 12, 2019",1981,G,85 min,Action-Adventure
+s1277,Movie,The Fox and the Hound 2,United States,"November 12, 2019",2006,G,73 min,Action-Adventure
+s1278,Movie,The Game Plan,United States,"November 12, 2019",2007,PG,112 min,Comedy
+s1279,Movie,The Ghosts of Buxley Hall,United States,"November 12, 2019",1980,TV-PG,93 min,Comedy
+s1280,Movie,The Goddess of Spring,United States,"November 12, 2019",1934,TV-Y7,10 min,Animation
+s1281,Movie,The Golden Touch,United States,"November 12, 2019",1935,TV-Y7,11 min,Animation
+s1282,Movie,The Good Dinosaur,United States,"November 12, 2019",2015,PG,94 min,Action-Adventure
+s1283,Movie,The Great Muppet Caper,"United Kingdom, United States","November 12, 2019",1981,G,98 min,Comedy
+s1284,Movie,The Greatest Game Ever Played,"United States, Canada","November 12, 2019",2005,PG,122 min,Biographical
+s1285,Movie,The Haunted Mansion,United States,"November 12, 2019",2003,PG,89 min,Comedy
+s1286,Movie,The Hockey Champ,United States,"November 12, 2019",1939,TV-G,9 min,Animation
+s1287,Movie,The Hunchback of Notre Dame,"United States, France","November 12, 2019",1996,G,96 min,Action-Adventure
+s1288,Movie,The Hunchback of Notre Dame II,United States,"November 12, 2019",2002,G,69 min,Action-Adventure
+s1289,TV Show,The Imagineering Story,United States,"November 12, 2019",2019,TV-PG,1 Season,Docuseries
+s1290,Movie,The Incredible Journey,"Canada, United States","November 12, 2019",1963,G,80 min,Action-Adventure
+s1291,Movie,The Incredibles,United States,"November 12, 2019",2004,PG,116 min,Action-Adventure
+s1292,Movie,The Journey of Natty Gann,United States,"November 12, 2019",1985,PG,101 min,Action-Adventure
+s1293,Movie,The Jungle Book 2,"United States, Australia","November 12, 2019",2003,G,77 min,Action-Adventure
+s1294,Movie,The Jungle Book: Mowgli's Story,United States,"November 12, 2019",1998,G,77 min,Action-Adventure
+s1295,Movie,The Legend of Mor'du,United States,"November 12, 2019",2012,TV-G,8 min,Animation
+s1296,Movie,The Lion King 1 1/2,"Australia, United States","November 12, 2019",2004,G,80 min,Action-Adventure
+s1297,Movie,The Lion King 2: Simba's Pride,"United States, Australia","November 12, 2019",1998,G,84 min,Action-Adventure
+s1298,Movie,The Little Mermaid,United States,"November 12, 2019",1989,G,86 min,Animation
+s1299,Movie,The Little Mermaid II:  Return to the Sea,"United States, Canada, Australia, Taiwan","November 12, 2019",2000,G,77 min,Animation
+s1300,Movie,The Little Mermaid:  Ariel's Beginning,United States,"November 12, 2019",2008,G,79 min,Animation
+s1301,Movie,The Little Whirlwind,United States,"November 12, 2019",1941,TV-Y7,9 min,Animation
+s1302,Movie,The Living Desert,United States,"November 12, 2019",1953,G,69 min,Animals & Nature
+s1303,Movie,The Lizzie McGuire Movie,United States,"November 12, 2019",2003,PG,95 min,Comedy
+s1304,Movie,The Lost Tomb of Alexander the Great,United Kingdom,"November 12, 2019",2019,TV-PG,44 min,Documentary
+s1305,Movie,The Love Bug (1969),United States,"November 12, 2019",1969,G,108 min,Action-Adventure
+s1306,Movie,The Many Adventures of Winnie the Pooh,United States,"November 12, 2019",1977,TV-Y,75 min,Animation
+s1307,Movie,The Million Dollar Duck,United States,"November 12, 2019",1971,G,93 min,Comedy
+s1308,Movie,The Mistle-Tones,United States,"November 12, 2019",2012,TV-PG,87 min,Drama
+s1309,Movie,The Muppet Christmas Carol,"United States, United Kingdom","November 12, 2019",1992,G,87 min,Comedy
+s1310,Movie,The Muppet Movie,"United Kingdom, United States","November 12, 2019",1979,G,95 min,Action-Adventure
+s1311,Movie,The Muppets,United States,"November 12, 2019",2011,PG,108 min,Comedy
+s1312,TV Show,The Muppets (Series),United States,"November 12, 2019",2015,TV-PG,1 Season,Comedy
+s1313,TV Show,The New Adventures of Winnie the Pooh,United States,"November 12, 2019",1988,TV-Y,4 Seasons,Animation
+s1314,Movie,The Old Mill,United States,"November 12, 2019",1937,TV-Y7,9 min,Action-Adventure
+s1315,Movie,The Olympic Champ,United States,"November 12, 2019",1942,TV-G,7 min,Animation
+s1316,Movie,The Parent Trap,"United States, United Kingdom","November 12, 2019",1998,PG,129 min,Comedy
+s1317,Movie,The Parent Trap (1961),United States,"November 12, 2019",1961,G,129 min,Comedy
+s1318,Movie,The Pied Piper,United States,"November 12, 2019",1933,TV-G,8 min,Animation
+s1319,Movie,The Plausible Impossible (Disneyland: 1954-58),United States,"November 12, 2019",1956,TV-PG,52 min,Documentary
+s1320,Movie,The Poof Point,United States,"November 12, 2019",2001,TV-G,80 min,Comedy
+s1321,Movie,The Prince and the Pauper,United Kingdom,"November 12, 2019",1962,G,94 min,Action-Adventure
+s1322,Movie,The Princess and the Frog,United States,"November 12, 2019",2009,G,99 min,Animation
+s1323,Movie,The Princess Diaries,"United States, United Kingdom","November 12, 2019",2001,G,116 min,Comedy
+s1324,Movie,The Princess Diaries 2: Royal Engagement,United States,"November 12, 2019",2004,G,114 min,Comedy
+s1325,Movie,The Proud Family Movie,United States,"November 12, 2019",2005,TV-G,95 min,Animation
+s1326,Movie,The Reluctant Dragon,United States,"November 12, 2019",1941,G,74 min,Animation
+s1327,TV Show,The Replacements,United States,"November 12, 2019",2006,TV-G,1 Season,Animation
+s1328,Movie,The Rescuers,United States,"November 12, 2019",1977,G,78 min,Action-Adventure
+s1329,Movie,The Rescuers Down Under,United States,"November 12, 2019",1990,G,78 min,Action-Adventure
+s1330,Movie,The Rookie,United States,"November 12, 2019",2002,G,129 min,Biographical
+s1331,Movie,The Santa Clause,"United States, Canada","November 12, 2019",1994,PG,98 min,Comedy
+s1332,Movie,The Santa Clause 2,"United States, Canada","November 12, 2019",2002,G,106 min,Comedy
+s1333,Movie,The Santa Clause 3: The Escape Clause,"United States, Canada","November 12, 2019",2006,G,94 min,Comedy
+s1334,Movie,The Scream Team,United States,"November 12, 2019",2002,TV-PG,88 min,Comedy
+s1335,Movie,The Secret of the Magic Gourd,"China, Hong Kong, United States","November 12, 2019",2009,G,84 min,Fantasy
+s1336,Movie,The Shaggy D.A.,United States,"November 12, 2019",1976,G,92 min,Comedy
+s1337,Movie,The Shaggy Dog,United States,"November 12, 2019",1959,G,102 min,Comedy
+s1338,Movie,The Sign of Zorro,United States,"November 12, 2019",1960,G,90 min,Action-Adventure
+s1339,Movie,The Simple Things,United States,"November 12, 2019",1953,TV-G,8 min,Animation
+s1340,Movie,The Sound of Music,United States,"November 12, 2019",1965,G,175 min,Biographical
+s1341,Movie,The Story of Robin Hood And His Merrie Men,United Kingdom,"November 12, 2019",1952,PG,84 min,Action-Adventure
+s1342,Movie,The Strongest Man in the World,United States,"November 12, 2019",1975,G,92 min,Comedy
+s1343,Movie,The Suite Life Movie,United States,"November 12, 2019",2011,TV-G,81 min,Comedy
+s1344,TV Show,The Suite Life of Zack & Cody,United States,"November 12, 2019",2004,TV-G,3 Seasons,Action-Adventure
+s1345,TV Show,The Suite Life On Deck,United States,"November 12, 2019",2008,TV-G,3 Seasons,Action-Adventure
+s1346,Movie,The Swap,United States,"November 12, 2019",2016,TV-G,91 min,Comedy
+s1347,Movie,The Thirteenth Year,United States,"November 12, 2019",1999,TV-G,89 min,Coming of Age
+s1348,Movie,The Three Caballeros,United States,"November 12, 2019",1945,G,72 min,Animation
+s1349,Movie,The Three Musketeers,"Austria, United Kingdom, United States","November 12, 2019",1993,PG,106 min,Action-Adventure
+s1350,Movie,The Tigger Movie,"United States, Japan","November 12, 2019",2000,G,81 min,Action-Adventure
+s1351,Movie,The Tortoise and the Hare,United States,"November 12, 2019",1935,TV-G,9 min,Animation
+s1352,Movie,The Ugly Dachshund,United States,"November 12, 2019",1966,TV-G,93 min,Animals & Nature
+s1353,Movie,The Ugly Duckling,United States,"November 12, 2019",1939,TV-Y7,9 min,Animation
+s1354,Movie,The Ultimate Christmas Present,"Canada, United States","November 12, 2019",2000,TV-G,81 min,Comedy
+s1355,Movie,The Vanishing Prairie,United States,"November 12, 2019",1954,G,71 min,Animals & Nature
+s1356,Movie,The Wild,"Canada, United States","November 12, 2019",2006,G,86 min,Action-Adventure
+s1357,Movie,The Wise Little Hen,United States,"November 12, 2019",1934,TV-G,8 min,Animation
+s1358,Movie,The Wizards Return: Alex vs. Alex,United States,"November 12, 2019",2013,TV-G,59 min,Comedy
+s1359,TV Show,The World According to Jeff Goldblum,United States,"November 12, 2019",2019,TV-PG,2 Seasons,Docuseries
+s1360,Movie,The Young Black Stallion,United States,"November 12, 2019",2003,G,51 min,Action-Adventure
+s1361,Movie,Three Blind Mouseketeers,United States,"November 12, 2019",1936,TV-Y7,9 min,Animation
+s1362,Movie,Three Days,United States,"November 12, 2019",2001,TV-G,93 min,Drama
+s1363,Movie,Three Little Pigs,United States,"November 12, 2019",1933,TV-Y7,9 min,Animation
+s1364,Movie,Three Little Wolves,United States,"November 12, 2019",1936,TV-Y7,9 min,Animation
+s1365,Movie,Three Men and a Baby,"United States, France","November 12, 2019",1987,PG,103 min,Buddy
+s1366,Movie,Three Men and a Little Lady,United States,"November 12, 2019",1990,PG,104 min,Buddy
+s1367,Movie,Thru the Mirror,United States,"November 12, 2019",1936,TV-G,10 min,Animation
+s1368,Movie,Tiger Cruise,United States,"November 12, 2019",2004,TV-PG,88 min,Drama
+s1369,Movie,Tim Burton’s The Nightmare Before Christmas,United States,"November 12, 2019",1993,PG,78 min,Animation
+s1370,TV Show,Timon & Pumbaa,United States,"November 12, 2019",1995,TV-Y,3 Seasons,Animation
+s1371,Movie,Tin Toy,United States,"November 12, 2019",1988,TV-G,5 min,Animation
+s1372,Movie,Tinker Bell,United States,"November 12, 2019",2008,G,81 min,Action-Adventure
+s1373,Movie,Tinker Bell and the Great Fairy Rescue,United States,"November 12, 2019",2010,G,80 min,Action-Adventure
+s1374,Movie,Tinker Bell and the Lost Treasure,United States,"November 12, 2019",2009,G,84 min,Action-Adventure
+s1375,Movie,Titanic: 20 Years Later With James Cameron,United States,"November 12, 2019",2017,TV-PG,47 min,Documentary
+s1376,Movie,Toby Tortoise Returns,United States,"November 12, 2019",1936,TV-Y7,8 min,Animation
+s1377,Movie,Tom and Huck,United States,"November 12, 2019",1995,PG,92 min,Action-Adventure
+s1378,Movie,Toy Story,United States,"November 12, 2019",1995,G,83 min,Action-Adventure
+s1379,Movie,Toy Story 2,United States,"November 12, 2019",1999,G,93 min,Action-Adventure
+s1380,Movie,Toy Story 3,United States,"November 12, 2019",2010,G,103 min,Animation
+s1381,Movie,Toy Story Toons: Hawaiian Vacation,United States,"November 12, 2019",2011,G,6 min,Animation
+s1382,Movie,Toy Story Toons: Partysaurus Rex,United States,"November 12, 2019",2012,G,9 min,Animation
+s1383,Movie,Toy Story Toons: Small Fry,United States,"November 12, 2019",2011,G,10 min,Animation
+s1384,Movie,Trail of the Panda,China,"November 12, 2019",2009,G,89 min,Action-Adventure
+s1385,Movie,Trailer Horn,United States,"November 12, 2019",1950,TV-G,7 min,Animation
+s1386,Movie,Treasure Island,"United Kingdom, United States","November 12, 2019",1950,PG,96 min,Action-Adventure
+s1387,Movie,Treasure of Matecumbe,United States,"November 12, 2019",1976,G,116 min,Action-Adventure
+s1388,Movie,Treasure Planet,United States,"November 12, 2019",2002,PG,98 min,Action-Adventure
+s1390,Movie,Tron,United States,"November 12, 2019",1982,PG,96 min,Action-Adventure
+s1391,Movie,Tru Confessions,"United States, Canada","November 12, 2019",2002,TV-G,83 min,Coming of Age
+s1392,Movie,Tuck Everlasting,United States,"November 12, 2019",2002,PG,91 min,Coming of Age
+s1393,Movie,Tugboat Mickey,United States,"November 12, 2019",1940,TV-G,8 min,Animation
+s1394,Movie,Twas the Night,United States,"November 12, 2019",2001,TV-G,87 min,Comedy
+s1395,Movie,Twitches,United States,"November 12, 2019",2005,TV-PG,87 min,Comedy
+s1396,Movie,Twitches Too,United States,"November 12, 2019",2007,TV-PG,84 min,Comedy
+s1397,Movie,Unidentified Flying Oddball,United States,"November 12, 2019",1979,G,93 min,Action-Adventure
+s1398,Movie,Up,United States,"November 12, 2019",2009,PG,96 min,Action-Adventure
+s1399,Movie,"Up, Up and Away","Canada, United States","November 12, 2019",2000,TV-G,78 min,Comedy
+s1400,Movie,Valiant,"United Kingdom, United States","November 12, 2019",2005,G,76 min,Action-Adventure
+s1401,Movie,Waking Sleeping Beauty,United States,"November 12, 2019",2010,PG,87 min,Documentary
+s1402,Movie,WALL-E,United States,"November 12, 2019",2008,G,99 min,Action-Adventure
+s1403,Movie,Wendy Wu: Homecoming Warrior,United States,"November 12, 2019",2006,TV-PG,91 min,Action-Adventure
+s1404,Movie,Whispers: An Elephant's Tale,United States,"November 12, 2019",2000,G,73 min,Action-Adventure
+s1405,Movie,White Fang,United States,"November 12, 2019",1991,PG,109 min,Action-Adventure
+s1406,Movie,Who Framed Roger Rabbit,United States,"November 12, 2019",1988,PG,104 min,Action-Adventure
+s1407,TV Show,Wild Yellowstone,Germany,"November 12, 2019",2015,TV-PG,1 Season,Animals & Nature
+s1408,Movie,Winged Seduction: Birds of Paradise,United States,"November 12, 2019",2012,TV-PG,45 min,Action-Adventure
+s1409,Movie,Winnie the Pooh,United States,"November 12, 2019",2011,G,68 min,Animation
+s1410,Movie,Winnie the Pooh: A Very Merry Pooh Year,United States,"November 12, 2019",2002,G,67 min,Animation
+s1411,Movie,Winnie the Pooh: Springtime with Roo,United States,"November 12, 2019",2004,G,70 min,Animation
+s1412,Movie,Winter Storage,United States,"November 12, 2019",1949,TV-G,7 min,Animation
+s1413,TV Show,Wizards of Waverly Place,United States,"November 12, 2019",2007,TV-G,4 Seasons,Comedy
+s1414,Movie,Wizards of Waverly Place: The Movie,United States,"November 12, 2019",2009,TV-G,94 min,Action-Adventure
+s1415,TV Show,Wolverine and The X-Men,United States,"November 12, 2019",2008,TV-Y7,1 Season,Action-Adventure
+s1416,Movie,World's Greatest Dogs,United States,"November 12, 2019",2015,TV-PG,44 min,Animals & Nature
+s1417,Movie,Wreck-It Ralph,United States,"November 12, 2019",2012,PG,103 min,Action-Adventure
+s1418,TV Show,X-Men: Evolution,United States,"November 12, 2019",2000,TV-Y7,4 Seasons,Action-Adventure
+s1419,Movie,Ye Olden Days,United States,"November 12, 2019",1933,TV-Y7,9 min,Animation
+s1420,Movie,Yellowstone Cubs,United States,"November 12, 2019",1963,TV-PG,48 min,Animals & Nature
+s1421,Movie,You Lucky Dog,United States,"November 12, 2019",1998,TV-G,88 min,Comedy
+s1422,Movie,You Wish!,"New Zealand, United States","November 12, 2019",2003,TV-G,88 min,Coming of Age
+s1423,Movie,Your Friend the Rat,United States,"November 12, 2019",2007,TV-G,13 min,Animation
+s1424,Movie,Z-O-M-B-I-E-S,United States,"November 12, 2019",2018,TV-G,97 min,Coming of Age
+s1425,Movie,Zapped,"Canada, United States","November 12, 2019",2014,TV-G,95 min,Comedy
+s1426,Movie,Zenon: Girl of the 21st Century,United States,"November 12, 2019",1999,TV-G,97 min,Comedy
+s1427,Movie,Zenon: The Zequel,"United States, New Zealand","November 12, 2019",2001,TV-G,89 min,Comedy
+s1428,Movie,Zenon: Z3,United States,"November 12, 2019",2004,TV-G,81 min,Comedy
+s1429,Movie,Zootopia,United States,"November 12, 2019",2016,PG,109 min,Animation
+s1430,Movie,Bedknobs and Broomsticks,United States,"October 1, 2019",1971,G,118 min,Comedy
+s1431,Movie,Blackbeard's Ghost,United States,"October 1, 2019",1968,G,107 min,Comedy
+s1432,Movie,Brave Little Tailor,United States,"October 1, 2019",1938,TV-PG,9 min,Action-Adventure
+s1433,Movie,Justin Morgan had a Horse,United States,"October 1, 2019",1972,TV-G,88 min,Animals & Nature
+s1434,Movie,Lady and the Tramp II: Scamp's Adventure,"United States, Australia","October 1, 2019",2001,G,73 min,Action-Adventure
+s1435,TV Show,Smart Guy,United States,"October 1, 2019",1996,TV-G,3 Seasons,Comedy
+s1436,Movie,The Cat from Outer Space,United States,"October 1, 2019",1978,G,104 min,Comedy
+s1437,Movie,The Great Mouse Detective,United States,"October 1, 2019",1986,G,75 min,Animation
+s1438,Movie,The Sword in the Stone,United States,"October 1, 2019",1963,G,80 min,Action-Adventure
+s1439,Movie,Those Calloways,United States,"October 1, 2019",1965,PG,132 min,Animals & Nature
+s1443,Movie,Tomorrowland,"United States, Spain, France, Canada, United Kingdom","September 3, 2021",2015,PG,131 min,Action-Adventure
+s1444,Movie,Aquamarine,United States,"August 13, 2021",2006,PG,104 min,Comedy
+s1445,Movie,Ice Age: Dawn Of The Dinosaurs,"United States, United Kingdom, Australia","June 4, 2021",2009,PG,97 min,Animation
+s1446,Movie,X-Men Origins: Wolverine,"United States, United Kingdom","June 4, 2021",2009,PG-13,108 min,Action-Adventure
+s1447,Movie,Night at the Museum: Battle of the Smithsonian,"United States, Canada","April 2, 2021",2009,PG,106 min,Action-Adventure
+s1448,Movie,Eddie the Eagle,"United Kingdom, Germany, United States","December 18, 2020",2016,PG-13,107 min,Biographical
+s1449,Movie,Bend It Like Beckham,"United Kingdom, Germany, United States","September 18, 2020",2003,PG-13,112 min,Buddy
+s1450,Movie,Captain Sparky vs. The Flying Saucers,United States,"April 1, 2020",2012,TV-G,2 min,Action-Adventure
